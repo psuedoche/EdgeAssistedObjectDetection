@@ -1,0 +1,2991 @@
+(base) sophia@Sophias-MacBook-Pro-2 Case study 2 % python ./client.py
+1
+new image: 000000182611.jpg
+{'bottle': 4, 'dining table': 1, 'person': 2, 'sandwich': 2, 'bowl': 11, 'cake': 2, 'spoon': 1, 'oven': 1, 'cup': 1}
+b'4 persons, 4 bottles, 2 cups, 1 spoon, 7 bowls, 1 oven-a179d5d4-f3c4-4d48-ac65-94ec353ee2a4'
+Current accuracy: 0.64
+Current latency: 15.77000880241394
+Current bandwidth: 1104.2875890680743
+Average accuracy: 0.64
+Average latency: 15.77000880241394
+Average bandwidth: 1104.2875890680743
+2
+new image: 000000335177.jpg
+{'car': 1, 'truck': 1, 'stop sign': 1}
+b'1 car, 1 truck, 1 stop sign-fe5c3059-ba4f-4c8e-8396-245f98801d63'
+Current accuracy: 1.0
+Current latency: 12.004873991012573
+Current bandwidth: 1592.5823140095613
+Average accuracy: 0.8200000000000001
+Average latency: 13.887441396713257
+Average bandwidth: 1348.4349515388178
+3
+new image: 000000278705.jpg
+{'car': 2, 'person': 2, 'skateboard': 2}
+b'2 persons, 2 cars, 2 skateboards-58c706ce-3e86-4321-a12a-8872fb2b863c'
+Current accuracy: 1.0
+Current latency: 11.800782918930054
+Current bandwidth: 1606.5247645212082
+Average accuracy: 0.88
+Average latency: 13.191888570785522
+Average bandwidth: 1434.4648891996146
+4
+new image: 000000463618.jpg
+{'tv': 1, 'bird': 1, 'couch': 1, 'person': 2}
+b'2 persons, 1 bird, 1 couch, 1 tv-13842fa7-a854-40bb-a092-3ff2904cd12b'
+Current accuracy: 1.0
+Current latency: 11.192780017852783
+Current bandwidth: 2257.783585462439
+Average accuracy: 0.91
+Average latency: 12.692111432552338
+Average bandwidth: 1640.2945632653207
+5
+new image: 000000568981.jpg
+{'person': 2, 'skateboard': 1, 'backpack': 1}
+b'3 persons, 1 skateboard-1c1337c7-3237-4908-9a7d-44f9a589e937'
+Current accuracy: 0.75
+Current latency: 10.94274091720581
+Current bandwidth: 2645.2924563429624
+Average accuracy: 0.8780000000000001
+Average latency: 12.342237329483032
+Average bandwidth: 1841.294141880849
+6
+new image: 000000092416.jpg
+{'bottle': 1, 'person': 5, 'tie': 1, 'boat': 1}
+b'5 persons, 1 boat, 1 tie, 1 bottle-4e19397e-0e57-4015-89b6-211e0226b007'
+Current accuracy: 1.0
+Current latency: 11.211235046386719
+Current bandwidth: 1331.6218006517956
+Average accuracy: 0.8983333333333334
+Average latency: 12.15373694896698
+Average bandwidth: 1756.348751676007
+7
+new image: 000000173830.jpg
+{'person': 1, 'skis': 1}
+b'1 person, 1 backpack, 1 skis-5803c506-d0b2-4535-85da-6ab3502887b2'
+Current accuracy: 0.5
+Current latency: 11.529258966445923
+Current bandwidth: 1617.3957974463253
+Average accuracy: 0.8414285714285715
+Average latency: 12.06452580860683
+Average bandwidth: 1736.4983296431951
+8
+new image: 000000476215.jpg
+{'horse': 2, 'person': 1}
+b'1 person, 2 horses-696cbf4c-8689-44b4-98bf-b0ef356de937'
+Current accuracy: 1.0
+Current latency: 10.534104108810425
+Current bandwidth: 1827.3385948312748
+Average accuracy: 0.8612500000000001
+Average latency: 11.873223096132278
+Average bandwidth: 1747.8533627917052
+9
+new image: 000000479126.jpg
+{'chair': 4, 'person': 2, 'laptop': 1, 'wine glass': 1}
+b'2 persons, 1 wine glass, 5 chairs, 1 laptop, 1 remote, 1 keyboard-72cf2f1e-26fd-4483-8ce8-0cc896a8f8b8'
+Current accuracy: 0.875
+Current latency: 10.632242202758789
+Current bandwidth: 2282.5853227556113
+Average accuracy: 0.8627777777777779
+Average latency: 11.735336330201891
+Average bandwidth: 1807.268025009917
+10
+new image: 000000570664.jpg
+{'cat': 2, 'person': 1}
+b'1 person, 2 cats, 1 cell phone-e3eb756f-44e8-44f0-83e5-c95f6990302a'
+Current accuracy: 1.0
+Current latency: 10.721975088119507
+Current bandwidth: 1197.680454809957
+Average accuracy: 0.8765000000000001
+Average latency: 11.634000205993653
+Average bandwidth: 1746.3092679899207
+11
+new image: 000000304396.jpg
+{'clock': 2}
+b'2 clocks-f559ca33-db96-4663-a335-dae114a6c391'
+Current accuracy: 1.0
+Current latency: 10.668647050857544
+Current bandwidth: 1713.1624012747602
+Average accuracy: 0.8877272727272728
+Average latency: 11.546240828254007
+Average bandwidth: 1743.2959164703607
+12
+new image: 000000231339.jpg
+{'refrigerator': 1, 'person': 1, 'bowl': 1}
+b'1 person, 1 bowl, 1 refrigerator-d4dac44c-ac44-418f-b049-33c6958a5e54'
+Current accuracy: 1.0
+Current latency: 10.694082021713257
+Current bandwidth: 1419.3481001156836
+Average accuracy: 0.8970833333333333
+Average latency: 11.47522759437561
+Average bandwidth: 1716.300265107471
+13
+new image: 000000153510.jpg
+{'broccoli': 5, 'carrot': 1}
+b'7 broccolis, 1 carrot-74f1fe8c-0c3b-484c-8f7d-7719abff4ac2'
+Current accuracy: 1.0
+Current latency: 11.118144035339355
+Current bandwidth: 2758.531451159049
+Average accuracy: 0.905
+Average latency: 11.447759628295898
+Average bandwidth: 1796.471894803746
+14
+new image: 000000011051.jpg
+{'tie': 1, 'person': 2}
+b'2 persons, 1 tie-223e79f1-744f-43e7-bb3c-f396655f0a0d'
+Current accuracy: 1.0
+Current latency: 12.030268907546997
+Current bandwidth: 838.925553332281
+Average accuracy: 0.9117857142857143
+Average latency: 11.48936743395669
+Average bandwidth: 1728.0757275557842
+15
+new image: 000000237984.jpg
+{'chair': 1, 'bench': 1}
+b'1 bench, 1 chair-8b0e166b-463d-4b28-9bca-bd5825725f7a'
+Current accuracy: 1.0
+Current latency: 11.36102819442749
+Current bandwidth: 1879.4073594917243
+Average accuracy: 0.9176666666666667
+Average latency: 11.480811484654744
+Average bandwidth: 1738.16450301818
+16
+new image: 000000124798.jpg
+{'car': 8, 'bus': 1, 'truck': 1, 'person': 1, 'umbrella': 5}
+b'1 person, 1 bicycle, 8 cars, 1 bus, 1 truck, 1 traffic light, 3 umbrellas-52ecb37a-bdf8-458f-829b-81e8bc408009'
+Current accuracy: 0.8125
+Current latency: 11.06105899810791
+Current bandwidth: 2611.1875910742906
+Average accuracy: 0.91109375
+Average latency: 11.454576954245567
+Average bandwidth: 1792.728446021687
+17
+new image: 000000441491.jpg
+{'person': 3, 'cup': 1, 'pizza': 1}
+b'2 persons, 1 cup, 1 pizza-658bf3ff-c550-4237-b64f-611f54ff4269'
+Current accuracy: 0.8
+Current latency: 11.082844257354736
+Current bandwidth: 1653.9526834761405
+Average accuracy: 0.9045588235294119
+Average latency: 11.432710325016695
+Average bandwidth: 1784.565165871949
+18
+new image: 000000361268.jpg
+{'cow': 1}
+b'1 cow-f6842818-da3b-471f-95ff-0eb30c603a0b'
+Current accuracy: 1.0
+Current latency: 11.04089093208313
+Current bandwidth: 1953.9184050185825
+Average accuracy: 0.9098611111111112
+Average latency: 11.41094258096483
+Average bandwidth: 1793.9736791578732
+19
+new image: 000000272566.jpg
+{'person': 2, 'cup': 1, 'banana': 13, 'apple': 3}
+b'2 persons, 1 sports ball, 1 cup, 6 bananas, 1 apple-6d8f544f-d156-48b5-a787-c31562114e8f'
+Current accuracy: 0.5263157894736842
+Current latency: 11.322066068649292
+Current bandwidth: 2436.8123125862858
+Average accuracy: 0.8896745152354572
+Average latency: 11.406264869790329
+Average bandwidth: 1827.807291443579
+20
+new image: 000000160864.jpg
+{'chair': 2, 'person': 6, 'baseball bat': 5, 'baseball glove': 4, 'sports ball': 1}
+b'6 persons, 4 baseball bats, 2 baseball gloves, 1 chair-b47496b0-1071-4daa-9f95-36cf69fb2602'
+Current accuracy: 0.7222222222222222
+Current latency: 9.99091100692749
+Current bandwidth: 1430.3625555358442
+Average accuracy: 0.8813019005847954
+Average latency: 11.335497176647186
+Average bandwidth: 1807.9350546481924
+21
+new image: 000000078959.jpg
+{'banana': 13}
+b'6 bananas, 1 vase-ee3890f9-3cf7-4459-a836-9e70f46e6529'
+Current accuracy: 0.46153846153846156
+Current latency: 10.214518785476685
+Current bandwidth: 1829.2467214967314
+Average accuracy: 0.8613131653921128
+Average latency: 11.282117253258114
+Average bandwidth: 1808.9498959266944
+22
+new image: 000000047571.jpg
+{'horse': 1, 'person': 2}
+b'2 persons, 1 horse-77c53666-be46-4ab2-8990-d42167ee4f83'
+Current accuracy: 1.0
+Current latency: 11.11734390258789
+Current bandwidth: 3254.329479865973
+Average accuracy: 0.8676171124197439
+Average latency: 11.274627555500377
+Average bandwidth: 1874.6489679239342
+23
+new image: 000000311002.jpg
+{'person': 5, 'baseball bat': 1, 'sports ball': 1, 'baseball glove': 2}
+b'4 persons, 1 car, 1 sports ball, 1 baseball bat, 2 baseball gloves-7d3b0685-e8ce-4777-a499-6ead9c8df2db'
+Current accuracy: 0.8888888888888888
+Current latency: 10.977894067764282
+Current bandwidth: 1108.1588075915483
+Average accuracy: 0.8685419722662285
+Average latency: 11.26172609951185
+Average bandwidth: 1841.323308779048
+24
+new image: 000000328683.jpg
+{'parking meter': 1, 'potted plant': 1}
+b'1 parking meter, 1 bench, 1 potted plant-1f8d7683-b4b3-4a2a-bd98-7258a2d2ba91'
+Current accuracy: 1.0
+Current latency: 10.81630802154541
+Current bandwidth: 1975.500786168166
+Average accuracy: 0.8740193900884691
+Average latency: 11.243167012929916
+Average bandwidth: 1846.9140370035946
+25
+new image: 000000289059.jpg
+{'person': 2, 'tennis racket': 1}
+b'2 persons, 1 tennis racket-08ecf281-c2cb-4938-8df3-af84cfffeebc'
+Current accuracy: 1.0
+Current latency: 9.935425996780396
+Current bandwidth: 1838.6227229632266
+Average accuracy: 0.8790586144849303
+Average latency: 11.190857372283936
+Average bandwidth: 1846.58238444198
+26
+new image: 000000559547.jpg
+{'sports ball': 1, 'person': 3, 'baseball bat': 1, 'baseball glove': 1}
+b'3 persons, 1 tie, 2 baseball bats, 1 baseball glove-0f50b6cf-49c1-41b3-84b7-ecfb37cf40db'
+Current accuracy: 0.8333333333333334
+Current latency: 10.340597867965698
+Current bandwidth: 1869.439779675235
+Average accuracy: 0.8772999498252534
+Average latency: 11.158155083656311
+Average bandwidth: 1847.4615150278744
+27
+new image: 000000577862.jpg
+{'giraffe': 2}
+b'2 giraffes-1cd3258c-a8b2-481e-bef1-e2652d42af38'
+Current accuracy: 1.0
+Current latency: 10.011428117752075
+Current bandwidth: 3509.5892001359434
+Average accuracy: 0.8818443961280218
+Average latency: 11.115683714548746
+Average bandwidth: 1909.0217996615067
+28
+new image: 000000295316.jpg
+{'person': 4, 'surfboard': 4}
+b'4 persons, 2 surfboards-aca9bc28-8aa4-41d5-9d7e-58677d8d4fed'
+Current accuracy: 0.75
+Current latency: 10.742326021194458
+Current bandwidth: 2104.897948115504
+Average accuracy: 0.8771356676948782
+Average latency: 11.102349511214666
+Average bandwidth: 1916.0173763920066
+29
+new image: 000000162732.jpg
+{'sports ball': 1, 'person': 5}
+b'6 persons, 1 sports ball-33d5682f-089f-4800-88f1-ef2a265a334e'
+Current accuracy: 1.0
+Current latency: 10.472791910171509
+Current bandwidth: 2174.3963018956874
+Average accuracy: 0.881372368808848
+Average latency: 11.080640628420074
+Average bandwidth: 1924.926994512823
+30
+new image: 000000301563.jpg
+{'person': 3, 'skis': 3, 'backpack': 1}
+b'3 persons, 3 skiss-b26c6379-78da-4fda-99a5-b3b34215d2c3'
+Current accuracy: 0.8571428571428571
+Current latency: 10.45182728767395
+Current bandwidth: 918.2724451750817
+Average accuracy: 0.8805647184199815
+Average latency: 11.059680183728537
+Average bandwidth: 1891.3718428682319
+31
+new image: 000000377393.jpg
+{'person': 10, 'umbrella': 3, 'clock': 2}
+b'2 persons, 1 umbrella, 1 potted plant, 1 clock-adfc9347-928a-4b6f-bc8e-bff40efb1620'
+Current accuracy: 0.26666666666666666
+Current latency: 10.851030826568604
+Current bandwidth: 2354.9375546360625
+Average accuracy: 0.8607615554601972
+Average latency: 11.052949559304022
+Average bandwidth: 1906.3255755059038
+32
+new image: 000000519611.jpg
+{'bear': 1}
+b'1 bear-c609d867-9554-4b17-be2c-8de511b86da2'
+Current accuracy: 1.0
+Current latency: 10.664344787597656
+Current bandwidth: 2516.973666419373
+Average accuracy: 0.865112756852066
+Average latency: 11.040805660188198
+Average bandwidth: 1925.4083283469495
+33
+new image: 000000206218.jpg
+{'laptop': 1, 'keyboard': 1}
+b'1 laptop, 1 keyboard-8cc41503-f2fa-4997-9434-015384f6431d'
+Current accuracy: 1.0
+Current latency: 10.614603042602539
+Current bandwidth: 1935.9532257139977
+Average accuracy: 0.8692002490686701
+Average latency: 11.027890429352269
+Average bandwidth: 1925.7278706914053
+34
+new image: 000000023034.jpg
+{'horse': 2, 'person': 2, 'backpack': 1}
+b'2 persons, 2 horses, 1 backpack-b4dbf180-067e-41ec-bf5c-1e000588caf8'
+Current accuracy: 1.0
+Current latency: 10.736865043640137
+Current bandwidth: 2921.6163072275067
+Average accuracy: 0.8730473005666504
+Average latency: 11.019330859184265
+Average bandwidth: 1955.0187070601144
+35
+new image: 000000409358.jpg
+{'toilet': 1, 'sink': 1}
+b'1 toilet, 1 sink-47752d3b-2352-4f48-8eca-e399300a9731'
+Current accuracy: 1.0
+Current latency: 11.426867246627808
+Current bandwidth: 1105.7164424246453
+Average accuracy: 0.8766745205504604
+Average latency: 11.030974755968366
+Average bandwidth: 1930.7529280705294
+36
+new image: 000000256407.jpg
+{'cup': 12, 'clock': 1}
+b'1 bottle, 7 cups, 1 bowl-d4bca2d8-ced7-498c-9c63-064a3b9c2ac0'
+Current accuracy: 0.5384615384615384
+Current latency: 10.562028646469116
+Current bandwidth: 1700.8806358431543
+Average accuracy: 0.8672797154924348
+Average latency: 11.017948475148943
+Average bandwidth: 1924.367586619769
+37
+new image: 000000196843.jpg
+{'bicycle': 3, 'bus': 1}
+b'1 person, 2 bicycles, 1 bus-4984cf5d-210a-4755-b430-4a3d7ecb62a8'
+Current accuracy: 0.5
+Current latency: 10.411683082580566
+Current bandwidth: 3197.393710119432
+Average accuracy: 0.8573532366953419
+Average latency: 11.001562923998446
+Average bandwidth: 1958.773698065706
+38
+new image: 000000390246.jpg
+{'person': 1, 'surfboard': 1}
+b'1 person, 1 surfboard-7d8e9f78-f545-4601-a437-e323f523c04e'
+Current accuracy: 1.0
+Current latency: 10.493872880935669
+Current bandwidth: 2286.477096896243
+Average accuracy: 0.8611070988875698
+Average latency: 10.988202659707321
+Average bandwidth: 1967.397471719141
+39
+new image: 000000165713.jpg
+{'fire hydrant': 1}
+b'1 fire hydrant-ed8b29d4-51f6-4f5e-a0ea-a74248cb9e43'
+Current accuracy: 1.0
+Current latency: 10.347554206848145
+Current bandwidth: 1991.315975553255
+Average accuracy: 0.8646684553263501
+Average latency: 10.971775776300674
+Average bandwidth: 1968.0107666892466
+40
+new image: 000000085195.jpg
+{'fork': 1, 'cake': 1, 'dining table': 1}
+b'1 fork, 1 cake, 1 dining table-16840865-3613-43aa-84e4-f5be16006623'
+Current accuracy: 1.0
+Current latency: 10.494236946105957
+Current bandwidth: 1996.4648318498582
+Average accuracy: 0.8680517439431913
+Average latency: 10.959837305545808
+Average bandwidth: 1968.7221183182617
+41
+new image: 000000133233.jpg
+{'boat': 13}
+b'9 boats-7d8bad67-3777-4c58-8b7d-b1276eeb76be'
+Current accuracy: 0.6923076923076923
+Current latency: 10.241978168487549
+Current bandwidth: 1409.37129161364
+Average accuracy: 0.8637653036593986
+Average latency: 10.942328546105362
+Average bandwidth: 1955.0794152279052
+42
+new image: 000000032887.jpg
+{'cell phone': 1, 'person': 2, 'backpack': 1}
+b'2 persons, 2 backpacks-97730d17-c4d5-4f3c-b501-b3c54903a3b3'
+Current accuracy: 0.75
+Current latency: 10.885971307754517
+Current bandwidth: 2189.5381979393233
+Average accuracy: 0.8610566059532225
+Average latency: 10.940986707097007
+Average bandwidth: 1960.6617671972247
+43
+new image: 000000097585.jpg
+{'vase': 13}
+b'1 potted plant, 9 vases-ebefc7c5-22ba-4031-affa-db9ab3bb5fb4'
+Current accuracy: 0.6923076923076923
+Current latency: 10.682722091674805
+Current bandwidth: 3080.6286747501217
+Average accuracy: 0.8571322126126288
+Average latency: 10.93498055324998
+Average bandwidth: 1986.707509233339
+44
+new image: 000000137727.jpg
+{'train': 1, 'person': 3, 'suitcase': 13, 'car': 2, 'backpack': 5, 'handbag': 2}
+b'2 persons, 1 train, 1 truck, 1 backpack, 8 suitcases-dbdfe50c-74c5-42bb-b2b9-e7c66a09fa9b'
+Current accuracy: 0.46153846153846156
+Current latency: 10.421157836914062
+Current bandwidth: 1626.2948191770834
+Average accuracy: 0.8481414455427614
+Average latency: 10.923302764242345
+Average bandwidth: 1978.5163117320603
+45
+new image: 000000111086.jpg
+{'car': 12, 'boat': 1, 'person': 4}
+b'9 cars, 1 airplane-1c6013f0-c962-4591-861a-d57b402fe20d'
+Current accuracy: 0.5294117647058824
+Current latency: 10.560256958007812
+Current bandwidth: 1506.1778385931045
+Average accuracy: 0.8410585637463863
+Average latency: 10.915235079659356
+Average bandwidth: 1968.0199012178614
+46
+new image: 000000235836.jpg
+{'sports ball': 1, 'person': 1, 'chair': 3}
+b'1 person, 1 bench, 3 sports balls, 1 baseball bat, 2 chairs-166d8356-4962-4ebd-aad7-24fcb2bc1f01'
+Current accuracy: 0.8
+Current latency: 11.3074631690979
+Current bandwidth: 3541.6542509238107
+Average accuracy: 0.8401659862736387
+Average latency: 10.923761777255846
+Average bandwidth: 2002.2293436027733
+47
+new image: 000000090003.jpg
+{'dog': 2, 'frisbee': 1}
+b'2 dogs, 1 frisbee-4a55bb93-75ba-41e5-84c9-76c0a5e54e6a'
+Current accuracy: 1.0
+Current latency: 11.157397985458374
+Current bandwidth: 3309.4185622960053
+Average accuracy: 0.8435667099699443
+Average latency: 10.928732760409092
+Average bandwidth: 2030.0418801707144
+48
+new image: 000000168974.jpg
+{'cell phone': 1, 'person': 1, 'remote': 1}
+b'1 person, 1 cell phone, 1 microwave-c8db64cd-7434-4181-8c2a-94b3394086be'
+Current accuracy: 0.6666666666666666
+Current latency: 10.544590711593628
+Current bandwidth: 1231.531915764362
+Average accuracy: 0.839881292401126
+Average latency: 10.92072980105877
+Average bandwidth: 2013.4062559122488
+49
+new image: 000000227765.jpg
+{'spoon': 1, 'carrot': 7}
+b'1 spoon, 1 bowl, 6 carrots-ba099391-19ec-45a6-904b-9cf48294c45d'
+Current accuracy: 0.875
+Current latency: 10.594613075256348
+Current bandwidth: 1646.1077791251025
+Average accuracy: 0.8405980007194703
+Average latency: 10.914074357675046
+Average bandwidth: 2005.9103686308786
+50
+new image: 000000364884.jpg
+{'person': 13, 'snowboard': 1}
+b'8 persons, 1 snowboard-86db9a29-5cb9-4a20-a3e8-edad2d77f5f4'
+Current accuracy: 0.6428571428571429
+Current latency: 10.70600700378418
+Current bandwidth: 1609.4469202112014
+Average accuracy: 0.8366431835622238
+Average latency: 10.90991301059723
+Average bandwidth: 1997.9810996624851
+51
+new image: 000000065288.jpg
+{'bird': 3, 'chair': 12, 'bicycle': 4, 'person': 13, 'potted plant': 3, 'backpack': 2}
+b'14 persons, 1 bicycle, 6 birds, 4 chairs, 2 potted plants-c44ce6ff-3c48-416e-8122-16e2d6b77df6'
+Current accuracy: 0.2702702702702703
+Current latency: 10.52187705039978
+Current bandwidth: 3203.6702993710837
+Average accuracy: 0.8255378323212051
+Average latency: 10.902304462358064
+Average bandwidth: 2021.6220643626536
+52
+new image: 000000101068.jpg
+{'person': 1, 'baseball bat': 1}
+b'2 persons, 2 baseball bats-f918ee1f-394d-4c03-aec3-8e2d20eba2a3'
+Current accuracy: 1.0
+Current latency: 10.796221017837524
+Current bandwidth: 2766.743562460248
+Average accuracy: 0.8288928740073358
+Average latency: 10.900264396117283
+Average bandwidth: 2035.9513239414534
+53
+new image: 000000361730.jpg
+{'person': 13, 'bench': 2, 'kite': 13, 'backpack': 1}
+b'17 persons, 2 benchs, 22 kites-8f954c8a-1e3e-4fdd-81c4-68483770e389'
+Current accuracy: 0.06896551724137931
+Current latency: 10.838203191757202
+Current bandwidth: 1441.486630540557
+Average accuracy: 0.8145546219928839
+Average latency: 10.899093429997283
+Average bandwidth: 2024.7350089716253
+54
+new image: 000000017178.jpg
+{'horse': 4, 'car': 1}
+b'1 car, 4 horses-b6ab2132-0f2f-4686-9a94-bece2bf0d132'
+Current accuracy: 1.0
+Current latency: 10.743566036224365
+Current bandwidth: 1938.3345278267068
+Average accuracy: 0.8179887956596823
+Average latency: 10.896213293075562
+Average bandwidth: 2023.1350000615344
+55
+new image: 000000434230.jpg
+{'person': 4, 'vase': 13, 'bowl': 3}
+b'4 persons, 1 cup, 12 vases-f4a833ba-4976-44dd-9b09-b7a241aefbbb'
+Current accuracy: 0.2
+Current latency: 10.670838117599487
+Current bandwidth: 2112.6737892141787
+Average accuracy: 0.8067526357385972
+Average latency: 10.89211556261236
+Average bandwidth: 2024.762978046128
+56
+new image: 000000038825.jpg
+{'zebra': 2}
+b'2 zebras-fd7a7303-edd2-4b62-8b19-aa800a368fab'
+Current accuracy: 1.0
+Current latency: 10.712671995162964
+Current bandwidth: 2866.7917783599437
+Average accuracy: 0.8102034815289795
+Average latency: 10.888911213193621
+Average bandwidth: 2039.7992066231602
+57
+new image: 000000334719.jpg
+{'person': 7, 'frisbee': 1, 'bottle': 1}
+b'7 persons-f0f26101-769b-4b3e-9961-6e389338fa50'
+Current accuracy: 0.7777777777777778
+Current latency: 10.849737882614136
+Current bandwidth: 1421.8776680974545
+Average accuracy: 0.8096346095333443
+Average latency: 10.888223961779946
+Average bandwidth: 2028.9584778770952
+58
+new image: 000000430056.jpg
+{'sandwich': 2, 'keyboard': 1}
+b'4 sandwichs, 1 tv, 1 keyboard-eeee45f9-dc8e-47f0-8ee9-e507a1a7fd84'
+Current accuracy: 1.0
+Current latency: 10.872201919555664
+Current bandwidth: 1160.2065610381453
+Average accuracy: 0.8129167714379418
+Average latency: 10.887947719672631
+Average bandwidth: 2013.9799965522857
+59
+new image: 000000572517.jpg
+{'bird': 1, 'bear': 1}
+b'1 bird, 1 bear-9157c894-9cc6-4637-9ecd-c48395065adb'
+Current accuracy: 1.0
+Current latency: 11.192178964614868
+Current bandwidth: 2879.6112983803623
+Average accuracy: 0.8160876736169598
+Average latency: 10.893104181451312
+Average bandwidth: 2028.6517135324225
+60
+new image: 000000197022.jpg
+{'pizza': 2}
+b'2 pizzas, 1 dining table-1d2bc6ab-d848-4394-a338-849ce7b19bce'
+Current accuracy: 1.0
+Current latency: 11.371097087860107
+Current bandwidth: 3006.811896496986
+Average accuracy: 0.8191528790566771
+Average latency: 10.90107072989146
+Average bandwidth: 2044.9543832484987
+61
+new image: 000000521601.jpg
+{'donut': 1, 'bowl': 1}
+b'480x64-565994fa-8359-4bfc-964f-3f362cc2ccc2'
+Current accuracy: 0.0
+Current latency: 11.39173698425293
+Current bandwidth: 460.39949897455875
+Average accuracy: 0.8057241433344365
+Average latency: 10.909114438979351
+Average bandwidth: 2018.9780736702373
+62
+new image: 000000366711.jpg
+{'person': 1, 'orange': 13}
+b'1 person, 7 oranges-b9cff3f8-41d9-4e31-8722-d46a4546f5d4'
+Current accuracy: 0.5714285714285714
+Current latency: 11.056970834732056
+Current bandwidth: 3257.526454429943
+Average accuracy: 0.8019451824972451
+Average latency: 10.911499219556008
+Average bandwidth: 2038.9546604566842
+63
+new image: 000000137294.jpg
+{'person': 2, 'oven': 1}
+b'2 persons-d0b8cd0d-1397-4e1a-a30e-8f2bbbc2583f'
+Current accuracy: 0.6666666666666666
+Current latency: 11.1159029006958
+Current bandwidth: 2029.5022547010437
+Average accuracy: 0.7997979044681882
+Average latency: 10.914743722431243
+Average bandwidth: 2038.8046222700866
+64
+new image: 000000097988.jpg
+{'bicycle': 3, 'bench': 2, 'person': 12}
+b'18 persons, 1 bicycle, 2 benchs-66eef447-773d-42b8-b71e-f2a316e9774b'
+Current accuracy: 0.17647058823529413
+Current latency: 11.921420097351074
+Current bandwidth: 2952.1336143350895
+Average accuracy: 0.7900584151520493
+Average latency: 10.930473040789366
+Average bandwidth: 2053.075387771102
+65
+new image: 000000376264.jpg
+{'bottle': 2, 'cell phone': 1, 'knife': 2, 'laptop': 1, 'book': 2, 'cup': 1}
+b'2 bottles, 1 cup, 1 bowl, 1 laptop, 3 books-27ac0cca-ea1f-407e-bd19-0ae4394b5f0c'
+Current accuracy: 0.6666666666666666
+Current latency: 11.767343044281006
+Current bandwidth: 1784.4087591382852
+Average accuracy: 0.7881600805599664
+Average latency: 10.943347963920006
+Average bandwidth: 2048.942055022905
+66
+new image: 000000400803.jpg
+{'boat': 1, 'person': 2}
+b'2 persons, 1 boat-c5e4ea9c-79ab-48f6-acba-1cfea78c55c2'
+Current accuracy: 1.0
+Current latency: 11.095302820205688
+Current bandwidth: 2455.84779807703
+Average accuracy: 0.7913697763090579
+Average latency: 10.945650310227364
+Average bandwidth: 2055.1072935540283
+67
+new image: 000000138819.jpg
+{'toilet': 1, 'sink': 1}
+b'1 toilet, 1 sink-8c14ee2f-cc19-478e-90b4-de10bc51d5b1'
+Current accuracy: 1.0
+Current latency: 11.39903712272644
+Current bandwidth: 1231.0798577909652
+Average accuracy: 0.7944836602447436
+Average latency: 10.952417277578098
+Average bandwidth: 2042.8083766023408
+68
+new image: 000000304180.jpg
+{'person': 4, 'skateboard': 1}
+b'4 persons, 1 skateboard, 1 cup-1315fc81-b895-4548-828a-a433fba81a91'
+Current accuracy: 1.0
+Current latency: 10.87771201133728
+Current bandwidth: 2191.3270892956452
+Average accuracy: 0.7975059593587915
+Average latency: 10.951318670721616
+Average bandwidth: 2044.9924753184187
+69
+new image: 000000161978.jpg
+{'person': 13, 'skateboard': 6}
+b'18 persons, 14 skateboards-76b78e7d-41c4-4915-a3bc-42a51e3af53b'
+Current accuracy: 0.0
+Current latency: 10.61831283569336
+Current bandwidth: 1329.542670144748
+Average accuracy: 0.78594790197678
+Average latency: 10.946492499199467
+Average bandwidth: 2034.6236375622786
+70
+new image: 000000097022.jpg
+{'microwave': 1, 'toaster': 1, 'sink': 1, 'tv': 1, 'oven': 2}
+b'1 bottle, 1 spoon, 1 microwave, 2 ovens, 1 toaster-eabf621e-eeb4-4d03-910a-5d23b4f22297'
+Current accuracy: 0.6666666666666666
+Current latency: 10.791960000991821
+Current bandwidth: 2065.333822396632
+Average accuracy: 0.7842438843294927
+Average latency: 10.944284892082214
+Average bandwidth: 2035.0623544884838
+71
+new image: 000000482800.jpg
+{'person': 3, 'frisbee': 1}
+b'3 persons, 1 frisbee-d62a108b-b6da-40b3-bfb2-a40565cae6c9'
+Current accuracy: 1.0
+Current latency: 10.885140895843506
+Current bandwidth: 2108.907015504564
+Average accuracy: 0.7872827028600632
+Average latency: 10.943451878050682
+Average bandwidth: 2036.1024201365976
+72
+new image: 000000567898.jpg
+{'orange': 3, 'cake': 1, 'bowl': 2, 'carrot': 11}
+b'3 bowls, 1 banana, 3 carrots, 1 dining table-291c9a12-dbfe-4151-b403-0fe612831924'
+Current accuracy: 0.29411764705882354
+Current latency: 10.697840929031372
+Current bandwidth: 1640.038874796448
+Average accuracy: 0.7804331881961571
+Average latency: 10.94004061486986
+Average bandwidth: 2030.601537562429
+73
+new image: 000000567640.jpg
+{'sports ball': 1, 'person': 7, 'car': 2, 'truck': 1}
+b'7 persons, 2 cars, 1 truck, 1 sports ball-05ffcecb-3f52-4176-9250-8c32c1ea0f0d'
+Current accuracy: 1.0
+Current latency: 10.793273210525513
+Current bandwidth: 1282.453870110646
+Average accuracy: 0.7834409527414152
+Average latency: 10.93803010248158
+Average bandwidth: 2020.352939378158
+74
+new image: 000000446117.jpg
+{'bench': 1, 'orange': 1}
+b'1 orange-42c621a1-596d-4169-8d58-5c896d4b074c'
+Current accuracy: 0.5
+Current latency: 10.348573923110962
+Current bandwidth: 1693.0472865321133
+Average accuracy: 0.779610669596261
+Average latency: 10.930064478436032
+Average bandwidth: 2015.9298900153738
+75
+new image: 000000215072.jpg
+{'umbrella': 1, 'chair': 2, 'person': 2, 'bottle': 2, 'bowl': 1, 'cup': 1}
+b'3 persons, 1 bench, 1 umbrella, 1 bowl, 2 chairs-b157d1bc-b60d-4c2e-baeb-7e94c8648883'
+Current accuracy: 0.6666666666666666
+Current latency: 10.830307722091675
+Current bandwidth: 2259.434877375211
+Average accuracy: 0.7781047495571997
+Average latency: 10.92873438835144
+Average bandwidth: 2019.1766231801714
+76
+new image: 000000523957.jpg
+{'skateboard': 2, 'person': 11}
+b'13 persons, 1 bench, 1 skateboard-643ad1ba-477d-45a7-b04e-a2e8dd987f87'
+Current accuracy: 0.07692307692307693
+Current latency: 10.323776006698608
+Current bandwidth: 1140.655801942932
+Average accuracy: 0.768878674917277
+Average latency: 10.920774409645482
+Average bandwidth: 2007.6171386902076
+77
+new image: 000000119828.jpg
+{'cat': 1, 'cup': 1, 'laptop': 1, 'remote': 1, 'cell phone': 1, 'mouse': 1}
+b'1 cat, 1 cup, 1 laptop, 1 mouse, 1 remote, 1 keyboard, 1 cell phone-53fdc3fe-f2ea-4143-851e-6bda96dc0be3'
+Current accuracy: 1.0
+Current latency: 10.332256078720093
+Current bandwidth: 1308.0637855884618
+Average accuracy: 0.771880250567702
+Average latency: 10.913131314438658
+Average bandwidth: 1998.5320302083667
+78
+new image: 000000353027.jpg
+{'pizza': 2, 'person': 1}
+b'1 person, 2 pizzas, 1 dining table-3d48e694-cee3-4680-8727-a9285cf7cc9e'
+Current accuracy: 1.0
+Current latency: 10.393863916397095
+Current bandwidth: 1499.0695592444322
+Average accuracy: 0.774804862739911
+Average latency: 10.906474040104793
+Average bandwidth: 1992.1286651960086
+79
+new image: 000000030504.jpg
+{'person': 1, 'skis': 1, 'backpack': 1}
+b'1 person, 1 backpack, 1 skis-1faa42da-f6ad-4625-a169-ebc8250ace71'
+Current accuracy: 0.6666666666666666
+Current latency: 10.7546968460083
+Current bandwidth: 2635.5461623746564
+Average accuracy: 0.7734360248149331
+Average latency: 10.904552809799775
+Average bandwidth: 2000.273190476751
+80
+new image: 000000489014.jpg
+{'dog': 1, 'boat': 1, 'person': 1}
+b'1 boat, 1 dog-43940dcb-ce02-41b1-9b4b-67e3cded1ed8'
+Current accuracy: 0.6666666666666666
+Current latency: 10.709306955337524
+Current bandwidth: 1376.116126044454
+Average accuracy: 0.7721014078380798
+Average latency: 10.902112236618995
+Average bandwidth: 1992.4712271713474
+81
+new image: 000000201775.jpg
+{'toilet': 2, 'sink': 1}
+b'2 toilets, 1 sink-a0026fd2-5077-4b5a-8df4-dfb1f70b35a0'
+Current accuracy: 1.0
+Current latency: 10.368964195251465
+Current bandwidth: 1525.4296091834858
+Average accuracy: 0.7749149707042764
+Average latency: 10.89553016203421
+Average bandwidth: 1986.7052812702625
+82
+new image: 000000122672.jpg
+{'person': 1, 'surfboard': 1}
+b'1 person, 2 surfboards-e030d99e-5d81-4ff2-abd0-baa4fd6bdbb3'
+Current accuracy: 1.0
+Current latency: 10.575268030166626
+Current bandwidth: 2554.47426230145
+Average accuracy: 0.7776599100859315
+Average latency: 10.89162452627973
+Average bandwidth: 1993.6292932340577
+83
+new image: 000000245651.jpg
+{'cake': 1}
+b'1 cake-5feec099-6be4-40dc-a699-8d9bf24e16f1'
+Current accuracy: 1.0
+Current latency: 10.577186107635498
+Current bandwidth: 1144.3142700554915
+Average accuracy: 0.7803387063499564
+Average latency: 10.887836111597268
+Average bandwidth: 1983.3965821114246
+84
+new image: 000000020059.jpg
+{'zebra': 2}
+b'2 zebras-43198a50-d975-479d-81de-8dba8f216364'
+Current accuracy: 1.0
+Current latency: 10.70449185371399
+Current bandwidth: 2455.954972853626
+Average accuracy: 0.7829537217505521
+Average latency: 10.885653441860562
+Average bandwidth: 1989.0222772393079
+85
+new image: 000000546659.jpg
+{'train': 1, 'person': 3}
+b'2 persons, 1 train, 1 traffic light-5f650edc-69d8-45b2-8f55-e6b3ea6bb32a'
+Current accuracy: 0.75
+Current latency: 11.24807596206665
+Current bandwidth: 2700.128457740232
+Average accuracy: 0.782566030906428
+Average latency: 10.889917236215927
+Average bandwidth: 1997.3882323040248
+86
+new image: 000000455157.jpg
+{'umbrella': 1, 'dining table': 2, 'person': 1, 'bench': 3, 'laptop': 1}
+b'1 person, 4 benchs, 1 backpack, 1 umbrella, 1 suitcase, 2 dining tables, 1 book-99b51eb5-137b-47e2-93cb-cf0e13cf9754'
+Current accuracy: 0.875
+Current latency: 12.268737077713013
+Current bandwidth: 2888.4187325502435
+Average accuracy: 0.7836408445005393
+Average latency: 10.905950025070545
+Average bandwidth: 2007.7490520743297
+87
+new image: 000000284743.jpg
+{'person': 5, 'baseball bat': 1}
+b'6 persons, 1 baseball bat, 1 cup-9772af57-1c20-4c2d-b1cb-02b2cf1ce8aa'
+Current accuracy: 1.0
+Current latency: 10.766426801681519
+Current bandwidth: 790.7335606155207
+Average accuracy: 0.7861277313453606
+Average latency: 10.904346309859177
+Average bandwidth: 1993.7603682644583
+88
+new image: 000000516708.jpg
+{'traffic light': 1}
+b'1 traffic light-8503dfbb-b74f-4d18-8c71-52a94a1e1389'
+Current accuracy: 1.0
+Current latency: 11.201727151870728
+Current bandwidth: 1385.7014895607174
+Average accuracy: 0.788558098034618
+Average latency: 10.907725637609309
+Average bandwidth: 1986.8506082791885
+89
+new image: 000000543047.jpg
+{'couch': 2, 'chair': 5, 'dining table': 1, 'bowl': 1, 'microwave': 1, 'book': 1, 'handbag': 1, 'cup': 3, 'sink': 1}
+b'5 chairs, 2 couchs, 1 dining table-1f990dc3-9c86-4ce6-892e-b8a8b31c9ba0'
+Current accuracy: 0.5
+Current latency: 11.054589986801147
+Current bandwidth: 1049.3039555378905
+Average accuracy: 0.7853158722140042
+Average latency: 10.909375798836184
+Average bandwidth: 1976.3163762259153
+90
+new image: 000000053909.jpg
+{'cell phone': 1, 'person': 1}
+b'1 person, 1 cell phone-f0d6e869-b1f3-4e7e-bcad-4aa9495a6a0a'
+Current accuracy: 1.0
+Current latency: 10.570534944534302
+Current bandwidth: 1762.138822466248
+Average accuracy: 0.7877012514116264
+Average latency: 10.90561090045505
+Average bandwidth: 1973.9366256285857
+91
+new image: 000000309467.jpg
+{'person': 2, 'backpack': 2, 'skis': 2}
+b'2 persons, 3 backpacks, 2 skiss-72a03cab-51c8-4c66-b10c-11c97da617ec'
+Current accuracy: 1.0
+Current latency: 9.900007009506226
+Current bandwidth: 904.860470441909
+Average accuracy: 0.7900342046928174
+Average latency: 10.894560308246822
+Average bandwidth: 1962.1885360111496
+92
+new image: 000000090956.jpg
+{'person': 1, 'skis': 1}
+b'1 person, 1 skis-be573361-5cb9-4cdd-b45a-b5dab20ae804'
+Current accuracy: 0.5
+Current latency: 10.020995855331421
+Current bandwidth: 1543.446901215036
+Average accuracy: 0.7868816589896346
+Average latency: 10.885065042454263
+Average bandwidth: 1957.6369965024962
+93
+new image: 000000283038.jpg
+{'stop sign': 1, 'car': 1, 'truck': 1, 'traffic light': 3}
+b'2 cars, 1 truck, 2 traffic lights, 1 stop sign-9a0ee866-7edf-4700-87f6-32f419d36a33'
+Current accuracy: 0.8333333333333334
+Current latency: 9.78844404220581
+Current bandwidth: 1749.8439921755098
+Average accuracy: 0.7873811393589216
+Average latency: 10.873273418795678
+Average bandwidth: 1955.402663122636
+94
+new image: 000000035326.jpg
+{'bottle': 4, 'knife': 1, 'oven': 1}
+b'3 spoons-2801c848-994b-4a26-8ae7-28bf9707881a'
+Current accuracy: 0.0
+Current latency: 10.453621864318848
+Current bandwidth: 1497.3877191242702
+Average accuracy: 0.7790047442593586
+Average latency: 10.868809040556563
+Average bandwidth: 1950.530163718398
+95
+new image: 000000148508.jpg
+{'car': 2, 'bus': 1, 'person': 13}
+b'22 persons, 1 car, 1 bus, 1 truck, 1 handbag-9ce9462a-d12c-43d6-9ceb-f3e44f08d261'
+Current accuracy: 0.0625
+Current latency: 10.302573204040527
+Current bandwidth: 1999.318480156171
+Average accuracy: 0.7714625890566285
+Average latency: 10.862848663330078
+Average bandwidth: 1951.0437249440586
+96
+new image: 000000271457.jpg
+{'bench': 1}
+b'1 bench-68ca43b8-434d-4613-b1d3-1886266074b4'
+Current accuracy: 1.0
+Current latency: 10.232709169387817
+Current bandwidth: 773.9763604044475
+Average accuracy: 0.7738431870872886
+Average latency: 10.856284710268179
+Average bandwidth: 1938.7826065634379
+97
+new image: 000000084664.jpg
+{'spoon': 1, 'bowl': 1, 'dining table': 1, 'fork': 1}
+b'1 cup, 1 bowl, 1 sandwich, 1 carrot-2b4951cd-0359-4043-96ab-741f53c60bec'
+Current accuracy: 0.25
+Current latency: 11.078681945800781
+Current bandwidth: 1878.224332262474
+Average accuracy: 0.7684427418595846
+Average latency: 10.85857746527367
+Average bandwidth: 1938.1582944572422
+98
+new image: 000000327605.jpg
+{'person': 2, 'skis': 1}
+b'1 person, 1 skis-6bcb30eb-ba7a-459a-af66-954e5c1e0f5f'
+Current accuracy: 0.3333333333333333
+Current latency: 11.1732759475708
+Current bandwidth: 1362.77176644066
+Average accuracy: 0.7640028499358473
+Average latency: 10.861788674276703
+Average bandwidth: 1932.287003355032
+99
+new image: 000000466416.jpg
+{'clock': 2, 'car': 12}
+b'2 cars, 2 clocks-898cec9c-9223-4745-bb39-bb7539ffa0e0'
+Current accuracy: 0.2857142857142857
+Current latency: 10.854958772659302
+Current bandwidth: 2126.366896771304
+Average accuracy: 0.7591716523174478
+Average latency: 10.861719685371476
+Average bandwidth: 1934.2474063188329
+100
+new image: 000000427338.jpg
+{'motorcycle': 2, 'person': 2}
+b'1 person, 2 motorcycles-a3a8e0a8-e874-435d-804a-92ad75a528ea'
+Current accuracy: 0.75
+Current latency: 10.399627923965454
+Current bandwidth: 1907.255735014495
+Average accuracy: 0.7590799357942732
+Average latency: 10.857098767757416
+Average bandwidth: 1933.9774896057895
+101
+new image: 000000261888.jpg
+{'horse': 2, 'bicycle': 1, 'person': 1, 'backpack': 1, 'stop sign': 1}
+b'1 person, 1 bicycle, 2 horses, 1 backpack, 1 bottle-7ea1b3bb-aac4-47c6-aa1d-fca3a6f24468'
+Current accuracy: 0.8333333333333334
+Current latency: 10.570266962051392
+Current bandwidth: 1782.275231802079
+Average accuracy: 0.7598151179481253
+Average latency: 10.854258848889039
+Average bandwidth: 1932.4754870532777
+102
+new image: 000000177934.jpg
+{'bottle': 1, 'car': 6, 'motorcycle': 2, 'person': 6, 'truck': 3}
+b'5 persons, 7 cars, 3 motorcycles, 2 trucks-4fb36c8c-0eb0-48f8-a7e4-df25518a6b44'
+Current accuracy: 0.8333333333333334
+Current latency: 10.662928819656372
+Current bandwidth: 3667.367161629445
+Average accuracy: 0.7605358847656273
+Average latency: 10.85238306428872
+Average bandwidth: 1949.4842289608873
+103
+new image: 000000025096.jpg
+{'person': 1, 'knife': 1, 'zebra': 1, 'skateboard': 1, 'chair': 1, 'dining table': 1}
+b'2 persons, 1 bottle, 1 knife, 1 dining table, 1 book-280258be-977b-4dc4-86c0-c6001da2ef15'
+Current accuracy: 0.5
+Current latency: 10.647427082061768
+Current bandwidth: 1454.9759186517178
+Average accuracy: 0.7580064101562523
+Average latency: 10.850393200383603
+Average bandwidth: 1944.6831774044874
+104
+new image: 000000376310.jpg
+{'sink': 3, 'toilet': 1}
+b'3 sinks-00522969-e9c3-41b3-ad4f-d3402a95573a'
+Current accuracy: 0.75
+Current latency: 10.793303966522217
+Current bandwidth: 2755.0993738557368
+Average accuracy: 0.7579294254432114
+Average latency: 10.849844265442629
+Average bandwidth: 1952.4756408319033
+105
+new image: 000000329614.jpg
+{'car': 9, 'bus': 1, 'person': 1}
+b'2 persons, 9 cars, 2 buss-7124626b-1236-4d6e-a5e9-41294c0f1413'
+Current accuracy: 1.0
+Current latency: 9.894554853439331
+Current bandwidth: 774.8959011869924
+Average accuracy: 0.7602348594866094
+Average latency: 10.840746271042597
+Average bandwidth: 1941.260595692428
+106
+new image: 000000103723.jpg
+{'person': 7, 'elephant': 1}
+b'3 persons, 1 bicycle, 1 elephant, 1 handbag-c498c29a-2552-4771-ba1d-a0aa2a95c8b4'
+Current accuracy: 0.5
+Current latency: 10.533705234527588
+Current bandwidth: 1981.0930280826196
+Average accuracy: 0.7577798136423961
+Average latency: 10.837849657490569
+Average bandwidth: 1941.6363733564865
+107
+new image: 000000155571.jpg
+{'elephant': 1}
+b'1 elephant-fed6de3e-6a4d-4347-8a9a-13e19f6eac4a'
+Current accuracy: 1.0
+Current latency: 10.535995244979858
+Current bandwidth: 3141.2077578308804
+Average accuracy: 0.760043553701813
+Average latency: 10.835028588214767
+Average bandwidth: 1952.847320874939
+108
+new image: 000000313588.jpg
+{'umbrella': 1, 'car': 1, 'person': 1, 'handbag': 1, 'truck': 1}
+b'1 person, 1 car, 1 truck, 1 umbrella, 1 handbag-f4b9a1ef-f187-4a8d-be08-dc058a28c72e'
+Current accuracy: 1.0
+Current latency: 10.719089984893799
+Current bandwidth: 2727.120496347771
+Average accuracy: 0.7622653726490184
+Average latency: 10.833955082628462
+Average bandwidth: 1960.0165169441318
+109
+new image: 000000292082.jpg
+{'tie': 2, 'person': 2, 'chair': 1}
+b'2 persons, 2 ties, 1 chair-a8ef0548-4110-498d-a4bf-e37c1dc28b51'
+Current accuracy: 1.0
+Current latency: 11.1286780834198
+Current bandwidth: 2155.703024220099
+Average accuracy: 0.7644464242760916
+Average latency: 10.836658963369667
+Average bandwidth: 1961.8118060017096
+110
+new image: 000000138979.jpg
+{'car': 1, 'bus': 1, 'person': 5}
+b'6 persons, 1 car, 1 bus, 1 handbag-bcc98daa-43a5-4aa1-9f5c-73448f5a85d4'
+Current accuracy: 0.8571428571428571
+Current latency: 10.811490774154663
+Current bandwidth: 1867.7003404813834
+Average accuracy: 0.7652891191203349
+Average latency: 10.836430161649531
+Average bandwidth: 1960.9562472242521
+111
+new image: 000000022935.jpg
+{'sports ball': 1, 'person': 2}
+b'2 persons, 1 sports ball-b7490f9b-c44d-4c28-bc0d-ea2e096fd6ac'
+Current accuracy: 1.0
+Current latency: 10.888539791107178
+Current bandwidth: 1648.8092383757983
+Average accuracy: 0.7674036315606922
+Average latency: 10.83689961777077
+Average bandwidth: 1958.1441120094012
+112
+new image: 000000419201.jpg
+{'bird': 4, 'horse': 3}
+b'3 birds, 1 cow-a55b36c0-b5ca-4b33-8d21-fcec4ab2015d'
+Current accuracy: 0.42857142857142855
+Current latency: 10.693490028381348
+Current bandwidth: 1759.540145458768
+Average accuracy: 0.7643783440340025
+Average latency: 10.835619175008365
+Average bandwidth: 1956.3708623080563
+113
+new image: 000000308631.jpg
+{'motorcycle': 1, 'person': 10, 'backpack': 2}
+b'14 persons, 1 motorcycle-d1c15d9f-214e-433a-a138-b629015eb8b9'
+Current accuracy: 0.07692307692307693
+Current latency: 10.71247911453247
+Current bandwidth: 2960.9042557637986
+Average accuracy: 0.7582946691038173
+Average latency: 10.834529439959907
+Average bandwidth: 1965.2605383563373
+114
+new image: 000000329827.jpg
+{'person': 1, 'skis': 1}
+b'2 persons, 2 snowboards-62e40382-f460-4cd3-9b24-6265577b9bf0'
+Current accuracy: 0.5
+Current latency: 10.610562086105347
+Current bandwidth: 1268.0407400489166
+Average accuracy: 0.7560289263923803
+Average latency: 10.8325648140489
+Average bandwidth: 1959.1445752132897
+115
+new image: 000000255536.jpg
+{'chair': 4, 'motorcycle': 1, 'person': 2, 'umbrella': 1}
+b'2 persons, 4 chairs-38396881-ee29-4084-9beb-7841b1cded21'
+Current accuracy: 0.75
+Current latency: 11.641107082366943
+Current bandwidth: 643.5921383584296
+Average accuracy: 0.7559765009454901
+Average latency: 10.839595616382102
+Average bandwidth: 1947.7049888058561
+116
+new image: 000000129135.jpg
+{'train': 1, 'bench': 1}
+b'1 train, 1 bench-9756cfbc-8350-4e51-931a-c1fb354e5c9e'
+Current accuracy: 1.0
+Current latency: 11.222962856292725
+Current bandwidth: 2497.446561919632
+Average accuracy: 0.7580801517994082
+Average latency: 10.84290050638133
+Average bandwidth: 1952.4441402982163
+117
+new image: 000000365387.jpg
+{'bed': 1, 'toilet': 1, 'sink': 1, 'cup': 1}
+b'2 toilets, 1 sink-c86a9386-92ce-4cce-aa89-b1b27ea046af'
+Current accuracy: 0.5
+Current latency: 11.36925196647644
+Current bandwidth: 1194.8455395355363
+Average accuracy: 0.7558743385361655
+Average latency: 10.847399236809494
+Average bandwidth: 1945.968938582296
+118
+new image: 000000562843.jpg
+{'cell phone': 1, 'cup': 1, 'scissors': 1}
+b'1 cup, 1 mouse, 1 cell phone, 1 scissors-ee4ef3c6-ecae-41e3-948f-47c26b788771'
+Current accuracy: 0.6666666666666666
+Current latency: 11.180754899978638
+Current bandwidth: 1273.5499639677466
+Average accuracy: 0.7551183413169325
+Average latency: 10.850224284802453
+Average bandwidth: 1940.270472695732
+119
+new image: 000000214224.jpg
+{'bottle': 5, 'book': 1, 'cup': 2}
+b'4 bottles, 1 wine glass-c484f824-6dcf-4671-9079-f9106318c2ab'
+Current accuracy: 0.5
+Current latency: 10.885292053222656
+Current bandwidth: 871.1984900021517
+Average accuracy: 0.7529744897092271
+Average latency: 10.850518971932035
+Average bandwidth: 1931.2866745218366
+120
+new image: 000000017959.jpg
+{'person': 13, 'backpack': 1, 'kite': 10}
+b'4 persons, 8 kites-381055fa-2502-4ee0-a860-dfc08fa760e4'
+Current accuracy: 0.5
+Current latency: 10.86695408821106
+Current bandwidth: 1399.4146728288488
+Average accuracy: 0.7508663689616503
+Average latency: 10.85065593123436
+Average bandwidth: 1926.8544078410619
+121
+new image: 000000078420.jpg
+{'cat': 1, 'chair': 1, 'laptop': 1}
+b'1 cat, 1 chair, 1 laptop-527652e1-381b-412c-bf7b-f126736d7764'
+Current accuracy: 1.0
+Current latency: 11.22122597694397
+Current bandwidth: 1229.6004935957717
+Average accuracy: 0.7529253245900663
+Average latency: 10.853718493595597
+Average bandwidth: 1921.0919787977123
+122
+new image: 000000061171.jpg
+{'horse': 1, 'cow': 6}
+b'1 horse, 2 sheeps, 6 cows-3a8b8d72-b7c3-4286-883e-f4f1f537ee4f'
+Current accuracy: 1.0
+Current latency: 11.047897815704346
+Current bandwidth: 2114.27100337557
+Average accuracy: 0.7549505268475248
+Average latency: 10.855310127383373
+Average bandwidth: 1922.6754134253995
+123
+new image: 000000302452.jpg
+{'cell phone': 1, 'giraffe': 1, 'person': 9, 'bottle': 1}
+b'8 persons, 2 giraffes-068df842-3360-43a4-a822-96817e222be2'
+Current accuracy: 0.75
+Current latency: 11.261225938796997
+Current bandwidth: 998.659032428701
+Average accuracy: 0.7549102786617726
+Average latency: 10.85861025593145
+Average bandwidth: 1915.1630851246132
+124
+new image: 000000284623.jpg
+{'cat': 1, 'bottle': 2, 'sink': 1, 'toothbrush': 1}
+b'1 cat, 3 bottles, 1 cup-ca0c120f-61ef-4c52-b41a-4e17b2d85819'
+Current accuracy: 0.6
+Current latency: 11.001378059387207
+Current bandwidth: 1345.9109322550419
+Average accuracy: 0.7536610022209518
+Average latency: 10.859761609185126
+Average bandwidth: 1910.57234195631
+125
+new image: 000000166391.jpg
+{'car': 9, 'truck': 7, 'traffic light': 11}
+b'15 cars, 4 trucks, 13 traffic lights-59a4a8e3-d06b-4f2b-92f5-edc76cbf4d32'
+Current accuracy: 0.14814814814814814
+Current latency: 11.086565971374512
+Current bandwidth: 1367.3417935852117
+Average accuracy: 0.7488168993883694
+Average latency: 10.861576044082641
+Average bandwidth: 1906.2264975693415
+126
+new image: 000000229358.jpg
+{'bottle': 1, 'tie': 2, 'person': 2, 'cup': 1, 'sink': 1, 'bowl': 1, 'cell phone': 1, 'toothbrush': 1}
+b'2 persons, 3 bottles, 1 cup, 1 cell phone, 1 sink, 2 toothbrushs-d5b5b6d0-856f-4cc4-94a7-7c84ca65c6c1'
+Current accuracy: 0.7
+Current latency: 10.379062175750732
+Current bandwidth: 1015.2290083220197
+Average accuracy: 0.7484294636789379
+Average latency: 10.85774656893715
+Average bandwidth: 1899.1550889245216
+127
+new image: 000000547816.jpg
+{'bottle': 2, 'toilet': 1, 'sink': 1}
+b'1 bottle, 1 toilet-51cd1a81-f722-4599-9d5d-0bf09986c770'
+Current accuracy: 0.5
+Current latency: 10.275058031082153
+Current bandwidth: 2055.3046937658846
+Average accuracy: 0.7464733261696549
+Average latency: 10.853158470213883
+Average bandwidth: 1900.3846133720913
+128
+new image: 000000473219.jpg
+{'potted plant': 7, 'person': 5, 'tie': 1, 'chair': 8, 'book': 1}
+b'5 persons, 1 tie, 2 chairs, 6 potted plants, 6 vases-92bf13f3-bfbc-4e53-a22f-b20ba5379d1c'
+Current accuracy: 0.6363636363636364
+Current latency: 10.541777849197388
+Current bandwidth: 2304.3551427001003
+Average accuracy: 0.7456130942180454
+Average latency: 10.850725809112191
+Average bandwidth: 1903.5406331324664
+129
+new image: 000000006471.jpg
+{'person': 10, 'baseball bat': 1, 'bench': 2, 'baseball glove': 1, 'bottle': 2}
+b'10 persons, 1 bench, 1 baseball bat, 1 baseball glove, 1 bottle-2835573c-a166-4e3c-910d-9566622b0680'
+Current accuracy: 0.25
+Current latency: 10.728033065795898
+Current bandwidth: 1119.9047324253067
+Average accuracy: 0.7417711322473629
+Average latency: 10.849774702574855
+Average bandwidth: 1897.4659362277598
+130
+new image: 000000459396.jpg
+{'cow': 3}
+b'3 cows-a0926a16-05e1-4036-a8db-d478609bd4c3'
+Current accuracy: 1.0
+Current latency: 11.234012126922607
+Current bandwidth: 1782.5443638261042
+Average accuracy: 0.7437575081531524
+Average latency: 10.852730375069838
+Average bandwidth: 1896.5819241323625
+131
+new image: 000000253386.jpg
+{'dog': 1, 'person': 2}
+b'2 persons, 1 dog-ee5af86a-7587-4430-b85c-0ff35cc198c5'
+Current accuracy: 1.0
+Current latency: 10.833729028701782
+Current bandwidth: 966.195478239161
+Average accuracy: 0.7457135577092352
+Average latency: 10.85258532662428
+Average bandwidth: 1889.4797375224907
+132
+new image: 000000082765.jpg
+{'laptop': 1, 'bed': 1}
+b'2 beds, 1 laptop-0aaa3e86-3e0a-44bc-9112-5c9b983a40e7'
+Current accuracy: 1.0
+Current latency: 10.54466199874878
+Current bandwidth: 667.8023440519543
+Average accuracy: 0.747639970150832
+Average latency: 10.850252574140375
+Average bandwidth: 1880.2246057537743
+133
+new image: 000000050145.jpg
+{'bicycle': 4, 'person': 4, 'umbrella': 2, 'backpack': 1}
+b'4 persons, 3 bicycles, 1 motorcycle, 2 umbrellas-460e2758-9bd6-41be-b22d-3d0fa5047221'
+Current accuracy: 0.8181818181818182
+Current latency: 10.374066829681396
+Current bandwidth: 626.8877101690821
+Average accuracy: 0.7481703599856514
+Average latency: 10.846672230197075
+Average bandwidth: 1870.8010200726865
+134
+new image: 000000334309.jpg
+{'cell phone': 1, 'car': 4, 'person': 3, 'pizza': 1, 'sandwich': 1}
+b'3 persons, 3 cars, 1 hot dog, 1 chair-85f5fe58-c44f-4a14-93ae-211f3027b790'
+Current accuracy: 0.6
+Current latency: 10.27157211303711
+Current bandwidth: 2155.792195811457
+Average accuracy: 0.7470646110305346
+Average latency: 10.84238043827797
+Average bandwidth: 1872.9278198916325
+135
+new image: 000000129492.jpg
+{'person': 3, 'remote': 2, 'chair': 1, 'book': 3}
+b'3 persons, 1 bowl, 1 chair, 3 remotes, 1 book-762395fb-a206-4b64-8b7a-249c75d832df'
+Current accuracy: 0.7777777777777778
+Current latency: 10.56021523475647
+Current bandwidth: 1434.5825026500386
+Average accuracy: 0.7472921159694029
+Average latency: 10.840290325659293
+Average bandwidth: 1869.6808175416948
+136
+new image: 000000139871.jpg
+{'airplane': 1}
+b'1 airplane, 1 backpack-ca7be917-dc13-482f-a136-c59060b38752'
+Current accuracy: 1.0
+Current latency: 10.604043006896973
+Current bandwidth: 2084.7119335164707
+Average accuracy: 0.7491502621755103
+Average latency: 10.838553213021335
+Average bandwidth: 1871.261928688568
+137
+new image: 000000451084.jpg
+{'person': 1, 'skateboard': 1}
+b'1 person, 1 skateboard-c33b33e4-6bab-45fd-9435-9fb574009bb7'
+Current accuracy: 1.0
+Current latency: 9.753016710281372
+Current bandwidth: 1375.5872053266428
+Average accuracy: 0.7509812821596307
+Average latency: 10.830629588913743
+Average bandwidth: 1867.6438650143934
+138
+new image: 000000376112.jpg
+{'skis': 4, 'backpack': 5, 'person': 13}
+b'11 persons, 2 backpacks, 2 skiss-e17bdd47-1779-4774-aea4-27e7796c6069'
+Current accuracy: 0.18181818181818182
+Current latency: 10.671735048294067
+Current bandwidth: 2080.3201072302563
+Average accuracy: 0.7468569118673013
+Average latency: 10.829478179199109
+Average bandwidth: 1869.1849972043635
+139
+new image: 000000343803.jpg
+{'person': 1, 'frisbee': 1}
+b'1 person, 1 frisbee-dbcd8c1f-5648-40c9-ac94-31b70659ff21'
+Current accuracy: 1.0
+Current latency: 12.093647241592407
+Current bandwidth: 1587.9411410276384
+Average accuracy: 0.74867808516322
+Average latency: 10.838572920655174
+Average bandwidth: 1867.1616601095668
+140
+new image: 000000130699.jpg
+{'car': 8, 'person': 7, 'truck': 1, 'frisbee': 1}
+b'6 persons, 10 cars, 1 bus, 1 truck, 1 frisbee-f9479b5a-4c4e-4d02-9a75-ddf78fb7d787'
+Current accuracy: 0.47058823529411764
+Current latency: 11.118397951126099
+Current bandwidth: 2202.91404460112
+Average accuracy: 0.7466917290927264
+Average latency: 10.840571670872825
+Average bandwidth: 1869.5598914273637
+141
+new image: 000000451090.jpg
+{'boat': 1}
+b'1 boat-a14f17a2-d0d0-4f89-a7a5-56fa2d8e658f'
+Current accuracy: 1.0
+Current latency: 10.390029668807983
+Current bandwidth: 2622.4780745141065
+Average accuracy: 0.7484882416523525
+Average latency: 10.837376337524846
+Average bandwidth: 1874.8997366974825
+142
+new image: 000000114049.jpg
+{'person': 6, 'backpack': 1, 'suitcase': 5, 'chair': 3, 'cell phone': 1}
+b'4 persons, 3 suitcases-9ec580c2-6f49-4afd-8140-f9b4a474e323'
+Current accuracy: 0.4375
+Current latency: 10.683990955352783
+Current bandwidth: 1996.3162725548875
+Average accuracy: 0.7462981836125472
+Average latency: 10.836296158777156
+Average bandwidth: 1875.7547827246472
+143
+new image: 000000132703.jpg
+{'person': 1, 'skateboard': 1}
+b'1 person, 1 skateboard-b4035297-4a85-4fd0-9114-4dfebc7b2878'
+Current accuracy: 1.0
+Current latency: 10.782440900802612
+Current bandwidth: 1691.3841835796636
+Average accuracy: 0.7480723221886832
+Average latency: 10.835919548581531
+Average bandwidth: 1874.4654778355214
+144
+new image: 000000416330.jpg
+{'cat': 1, 'bed': 1}
+b'1 cat-7d9dcc07-5ad9-4006-bbda-d140b6f19eb4'
+Current accuracy: 0.5
+Current latency: 10.829684972763062
+Current bandwidth: 1817.3889683310374
+Average accuracy: 0.7463495977290395
+Average latency: 10.835876252916124
+Average bandwidth: 1874.0691131861847
+145
+new image: 000000347456.jpg
+{'elephant': 2}
+b'2 elephants-f43f81b4-83d8-4368-87fe-546abf2a439c'
+Current accuracy: 1.0
+Current latency: 9.725136041641235
+Current bandwidth: 2494.2324607221
+Average accuracy: 0.7480989108481496
+Average latency: 10.828215975596986
+Average bandwidth: 1878.3461017898805
+146
+new image: 000000177539.jpg
+{'person': 1, 'surfboard': 1}
+b'1 person, 1 toilet-d631e06a-97d0-4ca0-bed3-e2420831fe90'
+Current accuracy: 0.5
+Current latency: 10.342386245727539
+Current bandwidth: 1594.6513317285057
+Average accuracy: 0.7463996032396006
+Average latency: 10.82488837470747
+Average bandwidth: 1876.4029869264464
+147
+new image: 000000360943.jpg
+{'cat': 1}
+b'1 cat-36287b6d-fdc9-4b20-9b6a-6d114c8695a3'
+Current accuracy: 1.0
+Current latency: 10.748241901397705
+Current bandwidth: 781.348715170609
+Average accuracy: 0.7481247760066783
+Average latency: 10.824366970127132
+Average bandwidth: 1868.953638138992
+148
+new image: 000000579091.jpg
+{'broccoli': 3}
+b'5 broccolis-3d523c5e-5149-4f7d-a8bf-4b5d54b7fac3'
+Current accuracy: 1.0
+Current latency: 10.55506706237793
+Current bandwidth: 1028.4041717452174
+Average accuracy: 0.7498266356282547
+Average latency: 10.822547376155853
+Average bandwidth: 1863.2742498525477
+149
+new image: 000000303566.jpg
+{'car': 8, 'backpack': 1, 'handbag': 5, 'person': 13, 'apple': 13, 'orange': 13}
+b'19 persons, 1 car, 3 backpacks, 2 handbags, 9 apples-6ba3d46e-04a4-463a-8c7a-a5716b4e7671'
+Current accuracy: 0.24528301886792453
+Current latency: 10.454978942871094
+Current bandwidth: 2348.462405726983
+Average accuracy: 0.7464404368580512
+Average latency: 10.820080473919043
+Average bandwidth: 1866.5305462006984
+150
+new image: 000000094852.jpg
+{'elephant': 2}
+b'2 elephants-46808f8b-ddf9-4b98-8bc0-c8df5540fba1'
+Current accuracy: 1.0
+Current latency: 10.751177072525024
+Current bandwidth: 4343.129099726891
+Average accuracy: 0.7481308339456642
+Average latency: 10.81962111790975
+Average bandwidth: 1883.0412032242066
+151
+new image: 000000259640.jpg
+{'bicycle': 4, 'orange': 4, 'handbag': 2, 'person': 9, 'truck': 1, 'backpack': 1}
+b'7 persons, 2 bicycles, 2 handbags, 1 clock-9da4715c-f3a0-4c0c-ae86-512a025bda20'
+Current accuracy: 0.5238095238095238
+Current latency: 10.388844013214111
+Current bandwidth: 1633.3265740073718
+Average accuracy: 0.7466452623553586
+Average latency: 10.816768289401832
+Average bandwidth: 1881.38746395787
+152
+new image: 000000516318.jpg
+{'person': 1, 'surfboard': 1, 'bird': 1}
+b'1 person, 1 bird, 1 surfboard-59bf9c65-68d5-4a11-a002-cc98124ca31b'
+Current accuracy: 1.0
+Current latency: 11.16208004951477
+Current bandwidth: 1338.225038141466
+Average accuracy: 0.7483120698398628
+Average latency: 10.819040077297311
+Average bandwidth: 1877.81402694592
+153
+new image: 000000483667.jpg
+{'tie': 1, 'person': 1, 'chair': 1}
+b'1 person, 1 tie-ead83c0d-cdac-4080-b7af-6fa980475218'
+Current accuracy: 0.6666666666666666
+Current latency: 10.39417290687561
+Current bandwidth: 933.9006659759203
+Average accuracy: 0.7477784397537635
+Average latency: 10.816263167686712
+Average bandwidth: 1871.6446585735673
+154
+new image: 000000005193.jpg
+{'person': 6, 'surfboard': 2, 'bottle': 1}
+b'7 persons, 1 kite, 1 surfboard, 1 bottle, 1 cell phone-87209a72-b6ce-48f4-a158-643b7d1aaa64'
+Current accuracy: 0.8888888888888888
+Current latency: 10.370195865631104
+Current bandwidth: 1238.1877995723444
+Average accuracy: 0.748694741371524
+Average latency: 10.813366626764273
+Average bandwidth: 1867.5313023462866
+155
+new image: 000000207728.jpg
+{'sheep': 2}
+b'2 sheeps-5fc0d340-a6fd-43bb-8f4b-9be80669d4bd'
+Current accuracy: 1.0
+Current latency: 9.455333948135376
+Current bandwidth: 1586.1549768908567
+Average accuracy: 0.7503160656207399
+Average latency: 10.804605125611829
+Average bandwidth: 1865.715971214316
+156
+new image: 000000174018.jpg
+{'teddy bear': 2}
+b'2 teddy bears-7c41371d-dbb7-4b86-8158-035a14d1a8ee'
+Current accuracy: 1.0
+Current latency: 9.961724996566772
+Current bandwidth: 1260.4242743427794
+Average accuracy: 0.7519166036616327
+Average latency: 10.79920204786154
+Average bandwidth: 1861.8358962343702
+157
+new image: 000000007784.jpg
+{'kite': 1}
+b'1 kite-e97e1ea2-8e96-4781-8abe-70727a6d71b3'
+Current accuracy: 1.0
+Current latency: 10.231053113937378
+Current bandwidth: 801.7380917342589
+Average accuracy: 0.7534967526828962
+Average latency: 10.795583264842914
+Average bandwidth: 1855.0836809190828
+158
+new image: 000000344611.jpg
+159
+new image: 000000125257.jpg
+{'person': 1, 'snowboard': 1}
+b'1 person, 1 snowboard-079aa34d-9643-4618-b61b-d7d0e5423839'
+Current accuracy: 1.0
+Current latency: 10.064142942428589
+Current bandwidth: 2476.9992976654194
+Average accuracy: 0.7550568998178145
+Average latency: 10.79095389571371
+Average bandwidth: 1859.0198557086167
+160
+new image: 000000121031.jpg
+{'horse': 4, 'person': 4}
+b'4 persons, 4 horses-03c8e078-46c4-4466-8309-2c09563f3e80'
+Current accuracy: 1.0
+Current latency: 9.899432897567749
+Current bandwidth: 2804.9081485084102
+Average accuracy: 0.7565974224604698
+Average latency: 10.785346845410904
+Average bandwidth: 1864.9688386822002
+161
+new image: 000000252701.jpg
+{'person': 2, 'surfboard': 2}
+b'2 persons, 2 surfboards-ed0fcaac-119e-428f-a606-fc3413f78c26'
+Current accuracy: 1.0
+Current latency: 9.952025890350342
+Current bandwidth: 2270.1031175879193
+Average accuracy: 0.7581186885700919
+Average latency: 10.780138589441776
+Average bandwidth: 1867.5009279253609
+162
+new image: 000000445999.jpg
+{'person': 1, 'toothbrush': 1}
+b'1 person, 1 toothbrush-8001262c-4178-46ee-925a-c30d856885e6'
+Current accuracy: 1.0
+Current latency: 9.874542951583862
+Current bandwidth: 1408.077828834579
+Average accuracy: 0.7596210569640665
+Average latency: 10.774513771815329
+Average bandwidth: 1864.647368303679
+163
+new image: 000000248980.jpg
+{'broccoli': 6, 'orange': 4}
+b'1 bowl, 8 broccolis-ba380f9a-eb6e-4f43-89c2-65a6ac379d0b'
+Current accuracy: 0.6
+Current latency: 10.777605056762695
+Current bandwidth: 2043.763422763265
+Average accuracy: 0.7586357417976215
+Average latency: 10.774532853821178
+Average bandwidth: 1865.753022960837
+164
+new image: 000000219271.jpg
+{'truck': 5, 'person': 13}
+b'11 persons, 4 trucks-6f9ae0a9-ac9f-44fd-87ad-66170d08bf63'
+Current accuracy: 0.2222222222222222
+Current latency: 9.454368829727173
+Current bandwidth: 593.0723775414425
+Average accuracy: 0.7553448613094289
+Average latency: 10.76643368802919
+Average bandwidth: 1857.9451662404726
+165
+new image: 000000173004.jpg
+{'bottle': 3, 'dining table': 1, 'cup': 1, 'fork': 2, 'knife': 2, 'pizza': 4, 'chair': 2}
+b'1 person, 3 bottles, 1 cup, 2 forks, 1 knife, 4 pizzas, 2 chairs, 1 dining table-27dfb233-584a-4b82-8e79-82fda9ad833f'
+Current accuracy: 0.9333333333333333
+Current latency: 10.313301801681519
+Current bandwidth: 2875.6309638068165
+Average accuracy: 0.7564301568705504
+Average latency: 10.763670688722192
+Average bandwidth: 1864.1505674451455
+166
+new image: 000000123633.jpg
+{'chair': 1, 'person': 5, 'book': 5, 'scissors': 1, 'dining table': 1, 'bowl': 1}
+b'7 persons, 1 backpack, 1 cup, 1 bowl, 3 carrots, 1 chair, 1 dining table, 3 books-48e93d3a-9a48-4539-942e-c1ae9b350442'
+Current accuracy: 0.7857142857142857
+Current latency: 10.44283127784729
+Current bandwidth: 1592.1209064508964
+Average accuracy: 0.7566076364393003
+Average latency: 10.761726207444163
+Average bandwidth: 1862.5019028330591
+167
+new image: 000000306437.jpg
+{'person': 1, 'bicycle': 4, 'skateboard': 1, 'bench': 1}
+b'1 person, 2 bicycles, 1 skateboard-83d813c8-0453-4c95-9fb7-ae3a994cccec'
+Current accuracy: 0.5714285714285714
+Current latency: 10.053177118301392
+Current bandwidth: 1601.2226593218375
+Average accuracy: 0.7554920999030911
+Average latency: 10.757457839437278
+Average bandwidth: 1860.9279314866062
+168
+new image: 000000479912.jpg
+{'airplane': 2, 'person': 3, 'truck': 2}
+b'1 person, 2 airplanes, 1 truck, 1 boat-91806e0f-4361-4e87-bec9-d36171bda4e1'
+Current accuracy: 0.5714285714285714
+Current latency: 10.41499376296997
+Current bandwidth: 2280.4622393962045
+Average accuracy: 0.7543899230858784
+Average latency: 10.75540715634466
+Average bandwidth: 1863.4401129710945
+169
+new image: 000000050811.jpg
+{'bottle': 3, 'tie': 1, 'person': 1, 'bowl': 1, 'remote': 1, 'cell phone': 1, 'dining table': 1}
+b'1 person, 1 tie, 3 bottles, 1 bowl, 1 chair, 1 dining table, 1 remote-14b3996b-a93b-4c52-af90-df6089e146d0'
+Current accuracy: 0.8888888888888888
+Current latency: 11.199517965316772
+Current bandwidth: 1819.4198235230615
+Average accuracy: 0.7551905121680391
+Average latency: 10.758050673064732
+Average bandwidth: 1863.178087438666
+170
+new image: 000000357888.jpg
+{'person': 1, 'clock': 1, 'kite': 1, 'bottle': 13, 'wine glass': 5, 'cup': 8, 'bowl': 1, 'apple': 4, 'vase': 1}
+b'1 person, 1 kite, 2 wine glasss, 2 cups, 2 bowls, 1 sink, 1 vase-2942c350-a6fb-4cce-9112-f07635a09d75'
+Current accuracy: 0.22857142857142856
+Current latency: 20.63976502418518
+Current bandwidth: 780.7501675100185
+Average accuracy: 0.7520744229159881
+Average latency: 10.81652235561574
+Average bandwidth: 1856.773188504177
+171
+new image: 000000226903.jpg
+{'dining table': 1, 'bicycle': 1, 'bottle': 2, 'knife': 1, 'spoon': 1, 'cake': 12, 'person': 1, 'sandwich': 2}
+b'1 person, 1 bicycle, 1 umbrella, 1 bottle, 1 cup, 1 spoon, 1 cake, 1 microwave-bba8e4ef-0c8f-4b3c-b3a7-d733b88a3ddc'
+Current accuracy: 0.23809523809523808
+Current latency: 12.35497784614563
+Current bandwidth: 1187.7500051186273
+Average accuracy: 0.7490510159464544
+Average latency: 10.825572093795328
+Average bandwidth: 1852.8377580136735
+172
+new image: 000000519764.jpg
+{'cat': 1, 'chair': 1, 'laptop': 1}
+b'1 cat, 1 chair-52e51d85-49b5-4a3f-82de-4eae4285930b'
+Current accuracy: 0.6666666666666666
+Current latency: 10.983741044998169
+Current bandwidth: 1307.751151556978
+Average accuracy: 0.7485692361261047
+Average latency: 10.826497058422245
+Average bandwidth: 1849.6501170402425
+173
+new image: 000000409211.jpg
+{'sports ball': 1, 'tennis racket': 1, 'person': 13}
+b'7 persons, 1 sports ball, 1 tennis racket, 1 chair-45ded084-1008-463a-8279-cb37b77a147c'
+Current accuracy: 0.6
+Current latency: 10.23481297492981
+Current bandwidth: 2164.976053228951
+Average accuracy: 0.7477054614974645
+Average latency: 10.82305703468101
+Average bandwidth: 1851.483407366921
+174
+new image: 000000339823.jpg
+{'umbrella': 1, 'person': 1}
+b'1 person, 1 umbrella-37b52b6d-a413-4fbd-9931-4a4de3840c38'
+Current accuracy: 1.0
+Current latency: 10.55512285232544
+Current bandwidth: 2556.779809915179
+Average accuracy: 0.7491638114310052
+Average latency: 10.821508282181844
+Average bandwidth: 1855.560265185119
+175
+new image: 000000129322.jpg
+{'toilet': 1}
+b'1 toilet-452d920e-677f-41a9-9067-59d9787752c3'
+Current accuracy: 1.0
+Current latency: 10.608278036117554
+Current bandwidth: 907.6755876134636
+Average accuracy: 0.7506053987216316
+Average latency: 10.820282820997567
+Average bandwidth: 1850.1126520956268
+176
+new image: 000000287667.jpg
+{'dining table': 1, 'knife': 1, 'carrot': 2, 'book': 1}
+b'1 bottle, 2 knifes, 2 carrots, 1 book-52af457c-52da-4ffd-b393-78f9440c5492'
+Current accuracy: 0.8
+Current latency: 10.248786926269531
+Current bandwidth: 1516.9966076813648
+Average accuracy: 0.7508876535860795
+Average latency: 10.81701713017055
+Average bandwidth: 1848.209131841831
+177
+new image: 000000255912.jpg
+{'sandwich': 2, 'dining table': 1, 'broccoli': 1, 'bottle': 1}
+b'1 bottle, 1 knife, 1 bowl, 2 sandwichs, 1 dining table-b4b53d29-cf54-48a6-9581-49d4eca94521'
+Current accuracy: 0.8
+Current latency: 10.036371946334839
+Current bandwidth: 2849.685140499855
+Average accuracy: 0.7511667010088859
+Average latency: 10.812581646171482
+Average bandwidth: 1853.899336436479
+178
+new image: 000000531771.jpg
+{'oven': 1}
+b'1 oven-e3e1380b-eb24-4ee8-9df8-a26f12d471d2'
+Current accuracy: 1.0
+Current latency: 10.948843955993652
+Current bandwidth: 1677.5515363834681
+Average accuracy: 0.7525725388562933
+Average latency: 10.8133514897298
+Average bandwidth: 1852.9030211819422
+179
+new image: 000000132931.jpg
+{'person': 2, 'baseball glove': 1}
+b'2 persons, 1 baseball glove-9a774bb1-5f8c-48c4-bb10-277b94bb83bf'
+Current accuracy: 1.0
+Current latency: 10.464065074920654
+Current bandwidth: 2272.4796558263292
+Average accuracy: 0.753962580772831
+Average latency: 10.811389206500536
+Average bandwidth: 1855.260193286686
+180
+new image: 000000341973.jpg
+{'person': 2, 'donut': 2, 'bench': 1}
+b'2 persons, 1 bench, 2 donuts-83ddcb68-b53c-47c8-a395-9768f9551cde'
+Current accuracy: 1.0
+Current latency: 10.56930685043335
+Current bandwidth: 1859.7600843799964
+Average accuracy: 0.7553370914947705
+Average latency: 10.810036791103512
+Average bandwidth: 1855.2853323430732
+181
+new image: 000000463037.jpg
+{'car': 1, 'airplane': 1}
+b'2 airplanes-03bae90d-73a0-469b-9bee-4feab4297e15'
+Current accuracy: 0.5
+Current latency: 10.44942307472229
+Current bandwidth: 1821.320647456491
+Average accuracy: 0.7539185520975773
+Average latency: 10.80803338156806
+Average bandwidth: 1855.0966396492588
+182
+new image: 000000408696.jpg
+{'person': 4, 'toilet': 1}
+b'3 persons, 1 toilet-d607b3f3-3fba-439a-b9be-4c7666a08bf3'
+Current accuracy: 0.8
+Current latency: 10.620666980743408
+Current bandwidth: 1417.6958026553314
+Average accuracy: 0.7541731457323974
+Average latency: 10.806998208082842
+Average bandwidth: 1852.6800604393475
+183
+new image: 000000300913.jpg
+{'cat': 1, 'couch': 2}
+b'1 cat-19995074-223a-438d-8d79-25af352f6d7a'
+Current accuracy: 0.3333333333333333
+Current latency: 10.528111934661865
+Current bandwidth: 1462.8335161687883
+Average accuracy: 0.7518608390708641
+Average latency: 10.805465865921189
+Average bandwidth: 1850.538046459839
+184
+new image: 000000512194.jpg
+{'vase': 1}
+b'1 potted plant, 1 vase-9c97d35a-3b09-4687-bdab-c55eb356d170'
+Current accuracy: 1.0
+Current latency: 10.631255865097046
+Current bandwidth: 1894.8020116921641
+Average accuracy: 0.7532167907699304
+Average latency: 10.80451389870357
+Average bandwidth: 1850.7799260512725
+185
+new image: 000000338532.jpg
+{'giraffe': 1, 'person': 2}
+ b'1 person, 1 giraffe-29e38672-7c65-41c3-9642-378566ac72a6'
+Current accuracy: 0.6666666666666666
+Current latency: 10.520806074142456
+Current bandwidth: 1601.8615761220242
+Average accuracy: 0.7527464096606735
+Average latency: 10.802972008352695
+Average bandwidth: 1849.4271089320916
+186
+new image: 000000378116.jpg
+{'person': 1, 'surfboard': 1}
+b'1 person, 2 surfboards-3e28e9e8-fcd8-4aa6-b8b6-45a351eed629'
+Current accuracy: 1.0
+Current latency: 10.870646953582764
+Current bandwidth: 2129.358086858944
+Average accuracy: 0.7540829155543997
+Average latency: 10.803337818867451
+Average bandwidth: 1850.9402493533178
+187
+new image: 000000372349.jpg
+{'bottle': 1, 'person': 2, 'bowl': 1, 'toothbrush': 1}
+b'2 persons, 1 boat-0da2b2fc-60d5-4582-9242-be302b7acbf4'
+Current accuracy: 0.4
+Current latency: 10.589217901229858
+Current bandwidth: 1549.4770391016662
+Average accuracy: 0.7521792439653975
+Average latency: 10.802186636514561
+Average bandwidth: 1849.319479405728
+188
+new image: 000000427649.jpg
+{'boat': 1}
+b'1 boat-b23f818a-7b1c-4231-a648-daf5db796eff'
+Current accuracy: 1.0
+Current latency: 10.673713207244873
+Current bandwidth: 1182.9997447776016
+Average accuracy: 0.7535044886500745
+Average latency: 10.801499612828627
+Average bandwidth: 1845.7562722686796
+189
+new image: 000000449190.jpg
+{'sandwich': 2, 'cup': 1, 'bowl': 1, 'carrot': 1}
+b'1 bowl, 2 sandwichs, 2 carrots, 1 dining table-3a7b6a42-d7ac-4c94-86e2-05d91c7168cf'
+Current accuracy: 0.8
+Current latency: 10.134384155273438
+Current bandwidth: 2391.980571151533
+Average accuracy: 0.7537518051998082
+Average latency: 10.79795112635227
+Average bandwidth: 1848.6617206669926
+190
+new image: 000000142971.jpg
+{'person': 4, 'surfboard': 2}
+b'4 persons, 2 surfboards-07470e0c-451a-49dc-83f2-3643786056c8'
+Current accuracy: 1.0
+Current latency: 10.346569776535034
+Current bandwidth: 3519.2943928701975
+Average accuracy: 0.7550547057013965
+Average latency: 10.795562865242125
+Average bandwidth: 1857.5010469749461
+191
+new image: 000000569917.jpg
+{'bottle': 1, 'toothbrush': 2, 'toilet': 1, 'sink': 1}
+b'1 toilet, 1 sink, 1 toothbrush-33b12728-019f-4056-8940-f83e49f50ad9'
+Current accuracy: 0.6
+Current latency: 10.478043794631958
+Current bandwidth: 2779.5383919773917
+Average accuracy: 0.7542386283029681
+Average latency: 10.793891712238914
+Average bandwidth: 1862.3538751065378
+192
+new image: 000000460927.jpg
+{'bear': 1}
+b'1 bear-d8952beb-7207-441c-95f2-4a006b66bd21'
+Current accuracy: 1.0
+Current latency: 10.258291244506836
+Current bandwidth: 1338.2223874128233
+Average accuracy: 0.7555253370553086
+Average latency: 10.791087521308379
+Average bandwidth: 1859.609731191911
+193
+new image: 000000554328.jpg
+{'sports ball': 1, 'person': 3, 'baseball glove': 2}
+b'3 persons, 1 handbag, 3 baseball gloves-4178c93b-5ab9-433c-84dc-d61a139316e6'
+Current accuracy: 0.8333333333333334
+Current latency: 10.560296058654785
+Current bandwidth: 2166.4046985927284
+Average accuracy: 0.7559305870359233
+Average latency: 10.789885482440392
+Average bandwidth: 1861.2076216471235
+194
+new image: 000000193494.jpg
+{'bed': 1}
+b'1 bed-328abe5d-dcb3-4d05-ae3b-3d9b631a5ad2'
+Current accuracy: 1.0
+Current latency: 10.282335996627808
+Current bandwidth: 1775.3504656905614
+Average accuracy: 0.7571951953932502
+Average latency: 10.787255692358462
+Average bandwidth: 1860.7627659167786
+195
+new image: 000000225946.jpg
+{'train': 1, 'stop sign': 1}
+b'1 train, 1 stop sign-1bab697f-ef17-4462-ab9c-5357d702518d'
+Current accuracy: 1.0
+Current latency: 10.684638977050781
+Current bandwidth: 2777.304882620459
+Average accuracy: 0.758446766551017
+Average latency: 10.7867267402177
+Average bandwidth: 1865.487209817313
+196
+new image: 000000407002.jpg
+{'person': 1, 'skis': 1}
+b'1 person, 1 skis-6b229cd9-79f9-4bbe-bcc5-012b184b602d'
+Current accuracy: 0.5
+Current latency: 10.65135407447815
+Current bandwidth: 2705.7240608548623
+Average accuracy: 0.757121398517422
+Average latency: 10.786032521419036
+Average bandwidth: 1869.7961167457108
+197
+new image: 000000136772.jpg
+{'bowl': 1, 'orange': 1}
+b'1 bowl, 1 banana, 4 oranges-93ea3ab5-a699-438f-b24e-ad59b6dbddf4'
+Current accuracy: 1.0
+Current latency: 10.484203100204468
+Current bandwidth: 1017.5069958146797
+Average accuracy: 0.7583605750555984
+Average latency: 10.78449257539243
+Average bandwidth: 1865.4477028634096
+198
+new image: 000000396568.jpg
+{'train': 1}
+b'1 train-ead68936-9865-493f-8320-1f0f618cd68f'
+Current accuracy: 1.0
+Current latency: 10.546384811401367
+Current bandwidth: 2846.0463501721633
+Average accuracy: 0.759587171121306
+Average latency: 10.783283906539685
+Average bandwidth: 1870.4253609715756
+199
+new image: 000000295713.jpg
+{'cell phone': 1, 'person': 7, 'bench': 3, 'handbag': 1}
+b'8 persons, 1 bench, 1 handbag, 1 potted plant, 2 cell phones-66cf7164-f1ad-4cc1-8cb3-a8f0ccca7aa1'
+Current accuracy: 0.8333333333333334
+Current latency: 10.182520866394043
+Current bandwidth: 2438.7133918826817
+Average accuracy: 0.7599596264860132
+Average latency: 10.780249749771272
+Average bandwidth: 1873.2955025418337
+200
+new image: 000000130465.jpg
+{'clock': 2}
+b'2 clocks-50de7e01-d628-4ece-9a84-44fd1ec0713b'
+Current accuracy: 1.0
+Current latency: 10.608083009719849
+Current bandwidth: 1272.319889242311
+Average accuracy: 0.7611658595187468
+Average latency: 10.779384590273526
+Average bandwidth: 1870.2755245855546
+201
+new image: 000000328286.jpg
+{'boat': 6}
+b'4 boats-96e4b14b-35bb-4087-bedd-e4d51dd80653'
+Current accuracy: 0.6666666666666666
+Current latency: 10.725239992141724
+Current bandwidth: 2175.4058666374776
+Average accuracy: 0.7606933635544864
+Average latency: 10.779113867282867
+Average bandwidth: 1871.8011762958142
+202
+new image: 000000545219.jpg
+{'bus': 1, 'person': 5, 'handbag': 1, 'backpack': 1}
+b'6 persons, 1 bus-647b1588-682a-4d6c-b273-0846ee3978a9'
+Current accuracy: 0.625
+Current latency: 10.694115161895752
+Current bandwidth: 1847.0672609157145
+Average accuracy: 0.7600182721935188
+Average latency: 10.778690988151588
+Average bandwidth: 1871.6781219904406
+203
+new image: 000000349678.jpg
+{'clock': 1}
+b'1 clock-6c396da7-37d4-44eb-b741-27c618bf9e2d'
+Current accuracy: 1.0
+Current latency: 10.308843612670898
+Current bandwidth: 2901.574233140412
+Average accuracy: 0.7612063005489964
+Average latency: 10.776365011045248
+Average bandwidth: 1876.7766175901927
+204
+new image: 000000008844.jpg
+{'person': 3, 'banana': 4}
+b'3 persons, 2 bananas-9f02f164-ae91-4bd4-aff4-03e99054a8d3'
+Current accuracy: 0.7142857142857143
+Current latency: 10.267602920532227
+Current bandwidth: 1361.3937068064404
+Average accuracy: 0.760975164656074
+Average latency: 10.773858793850604
+Average bandwidth: 1874.2377855173663
+205
+new image: 000000398237.jpg
+{'person': 1, 'kite': 4}
+b'1 person, 1 backpack, 3 frisbees, 2 kites, 1 baseball glove-ac3b541b-517d-48a7-95ce-efc8c47ce96b'
+Current accuracy: 0.6
+Current latency: 10.632810115814209
+Current bandwidth: 2628.926379342147
+Average accuracy: 0.7601860707116813
+Average latency: 10.773167378762189
+Average bandwidth: 1877.9372394086643
+206
+new image: 000000528977.jpg
+207
+new image: 000000313562.jpg
+{'person': 2, 'banana': 1, 'carrot': 3}
+b'2 persons, 1 banana-d4e1b899-7310-4bfe-897f-b6eb44d221b8'
+Current accuracy: 0.5
+Current latency: 10.43325686454773
+Current bandwidth: 2320.644005446861
+Average accuracy: 0.7589168703667464
+Average latency: 10.77150927869285
+Average bandwidth: 1880.0967846088506
+208
+new image: 000000432085.jpg
+{'person': 1, 'mouse': 1, 'sandwich': 2, 'bottle': 1}
+b'1 person, 1 bottle, 1 cup, 2 sandwichs, 1 dining table, 1 mouse-c4dcb4d0-d97d-4f79-8adc-db81dfa2a33e'
+Current accuracy: 1.0
+Current latency: 10.018854856491089
+Current bandwidth: 1273.1494948981992
+Average accuracy: 0.7600871768212767
+Average latency: 10.767855616449152
+Average bandwidth: 1877.150438542294
+209
+new image: 000000565877.jpg
+{'couch': 1, 'person': 1, 'book': 1, 'clock': 1, 'laptop': 1}
+b'1 person, 1 couch, 1 laptop, 1 clock-1fbda9d6-7834-4e93-9e5b-2928c0eae2ba'
+Current accuracy: 0.8
+Current latency: 10.330343008041382
+Current bandwidth: 855.4653018898672
+Average accuracy: 0.7602799923921885
+Average latency: 10.765742028968921
+Average bandwidth: 1872.214761553635
+210
+new image: 000000545594.jpg
+{'person': 8, 'backpack': 1}
+b'8 persons, 1 car, 1 backpack-9cc36bb9-2a2d-46ab-bbb8-2a56a5fd71ec'
+Current accuracy: 1.0
+Current latency: 10.507525205612183
+Current bandwidth: 3482.86102425465
+Average accuracy: 0.7614324924287644
+Average latency: 10.764500601933552
+Average bandwidth: 1879.958253201236
+211
+new image: 000000547383.jpg
+{'sheep': 3}
+b'2 sheeps-b2c486b1-21ad-46ba-8554-eefc8c012a40'
+Current accuracy: 0.6666666666666666
+Current latency: 10.459532022476196
+Current bandwidth: 3300.2313034486965
+Average accuracy: 0.760979067425118
+Average latency: 10.763041422127536
+Average bandwidth: 1886.7538180349559
+212
+new image: 000000017031.jpg
+{'giraffe': 1}
+b'1 person, 1 giraffe-90c2cab3-b46e-43cd-9db4-89d93d8cca74'
+Current accuracy: 1.0
+Current latency: 11.052769184112549
+Current bandwidth: 1278.0168267970737
+Average accuracy: 0.7621172623421413
+Average latency: 10.764421078136989
+Average bandwidth: 1883.8550704576328
+213
+new image: 000000195754.jpg
+{'tv': 1, 'couch': 2, 'chair': 4, 'dining table': 1}
+b'1 person, 2 chairs, 1 couch, 1 tv-a50f9a85-dfef-4090-b123-f761eedd0cf7'
+Current accuracy: 0.5
+Current latency: 11.250803232192993
+Current bandwidth: 1321.2945505493842
+Average accuracy: 0.7608750004353064
+Average latency: 10.766726206829198
+Average bandwidth: 1881.1889068561718
+214
+new image: 000000336053.jpg
+{'chair': 6, 'dining table': 2, 'person': 4, 'wine glass': 3, 'fork': 1, 'spoon': 1, 'cup': 3, 'carrot': 5}
+b'6 persons, 1 bottle, 3 wine glasss, 1 cup, 1 fork, 1 spoon, 1 bowl, 7 chairs, 2 dining tables-b481cbb9-c939-4a2f-9cf9-458deafd2871'
+Current accuracy: 0.72
+Current latency: 13.072387218475342
+Current bandwidth: 2263.4446567021887
+Average accuracy: 0.7606821938294795
+Average latency: 10.777601966318095
+Average bandwidth: 1882.9920000158227
+215
+new image: 000000236721.jpg
+{'cup': 4, 'spoon': 1, 'banana': 1, 'bowl': 3}
+b'1 person, 7 cups, 1 spoon, 3 bowls, 2 bananas, 1 dining table-2bbb1b10-ce45-400b-9f19-4f49228ff109'
+Current accuracy: 1.0
+Current latency: 15.846587896347046
+Current bandwidth: 1472.959046621049
+Average accuracy: 0.761805751604928
+Average latency: 10.80140002232762
+Average bandwidth: 1881.066962675941
+216
+new image: 000000229601.jpg
+{'person': 9, 'baseball glove': 2}
+b'7 persons, 5 baseball gloves-7867b05a-511d-4c64-93a4-957ef73474c1'
+Current accuracy: 0.8181818181818182
+Current latency: 11.345278263092041
+Current bandwidth: 1573.2536114222582
+Average accuracy: 0.7620691911683714
+Average latency: 10.803941509433995
+Average bandwidth: 1879.6285825298958
+217
+new image: 000000325991.jpg
+{'person': 1, 'frisbee': 1}
+b'1 person, 1 frisbee-040e3ce4-f9b9-4c79-8b16-a6d645fcdbbd'
+Current accuracy: 1.0
+Current latency: 11.62844204902649
+Current bandwidth: 1324.414305464878
+Average accuracy: 0.7631758460931697
+Average latency: 10.807776395664659
+Average bandwidth: 1877.046190543547
+218
+new image: 000000338718.jpg
+{'car': 2}
+b'2 cars-b311aa12-bd6e-49c9-9c8b-53e01519945f'
+Current accuracy: 1.0
+Current latency: 12.366463899612427
+Current bandwidth: 625.6942213078795
+Average accuracy: 0.7642722542131087
+Average latency: 10.814992541516268
+Average bandwidth: 1871.252894389678
+219
+new image: 000000520324.jpg
+{'airplane': 2, 'person': 1}
+b'1 person, 2 airplanes, 1 truck-b9d0aa13-761f-4b6c-8f7b-8e1383de15fa'
+Current accuracy: 1.0
+Current latency: 11.191313028335571
+Current bandwidth: 2039.1262349842411
+Average accuracy: 0.7653585571890852
+Average latency: 10.816726737308063
+Average bandwidth: 1872.0265042541691
+220
+new image: 000000177935.jpg
+{'knife': 8, 'spoon': 3, 'oven': 1, 'clock': 1}
+b'4 knifes, 1 spoon, 1 oven, 1 clock-1ca9f5e5-db13-42c1-aa52-0e0f975db804'
+Current accuracy: 0.5384615384615384
+Current latency: 11.055701971054077
+Current bandwidth: 2199.2271556938367
+Average accuracy: 0.7643177451765735
+Average latency: 10.817822953976622
+Average bandwidth: 1873.5274246736174
+221
+new image: 000000572462.jpg
+{'bottle': 1, 'train': 1, 'person': 9, 'backpack': 4, 'bench': 1, 'tie': 1}
+b'9 persons, 1 train, 1 backpack, 1 handbag, 1 chair-f08b5e27-d20d-4f68-8f6c-a39959fc3972'
+Current accuracy: 0.6470588235294118
+Current latency: 48.60609817504883
+Current bandwidth: 360.88321545226313
+Average accuracy: 0.7637823163106048
+Average latency: 10.990372155899326
+Average bandwidth: 1866.6203734899582
+222
+new image: 000000459195.jpg
+{'person': 3, 'frisbee': 4}
+b'3 persons, 3 frisbees-2a0fb398-6c39-42e7-a0fa-93ff85650fca'
+Current accuracy: 0.8571428571428571
+Current latency: 10.262336015701294
+Current bandwidth: 2296.005019125251
+Average accuracy: 0.7642066824052969
+Average latency: 10.987062900716609
+Average bandwidth: 1868.5721218792094
+223
+new image: 000000144333.jpg
+{'cell phone': 1, 'bicycle': 1, 'car': 4, 'person': 1, 'handbag': 1}
+b'1 person, 1 bicycle, 4 cars, 1 handbag, 1 cell phone-60a40ca1-09b0-4309-8e49-9bed4d9f1b15'
+Current accuracy: 1.0
+Current latency: 10.325182914733887
+Current bandwidth: 2463.176702052206
+Average accuracy: 0.7652736204939606
+Average latency: 10.984067968653338
+Average bandwidth: 1871.2626403415306
+224
+new image: 000000407943.jpg
+{'umbrella': 1, 'person': 3}
+b'2 persons, 1 umbrella-ffae2261-9de5-401c-aa1d-288f83e59fee'
+Current accuracy: 0.75
+Current latency: 50.7074658870697
+Current bandwidth: 276.0195122187917
+Average accuracy: 0.7652048204016455
+Average latency: 11.163002193511069
+Average bandwidth: 1864.0768604851219
+225
+new image: 000000312720.jpg
+{'person': 1, 'skis': 1}
+b'1 person, 1 skis-ee14627b-15e8-459c-b9b6-1acb88e3b355'
+Current accuracy: 0.5
+Current latency: 10.292639017105103
+Current bandwidth: 1691.9616019816515
+Average accuracy: 0.7640155611173333
+Average latency: 11.15909921962584
+Average bandwidth: 1863.3050431824156
+226
+new image: 000000206027.jpg
+{'bottle': 4, 'dining table': 1, 'pizza': 1}
+b'4 bottles, 1 pizza, 1 dining table-5bc778e9-07f0-4b39-84e5-71fb9dae7eac'
+Current accuracy: 1.0
+Current latency: 11.151119232177734
+Current bandwidth: 1922.5872805785716
+Average accuracy: 0.7650690630766308
+Average latency: 11.159063594681877
+Average bandwidth: 1863.5696960279342
+227
+new image: 000000203639.jpg
+{'person': 1, 'tie': 1}
+b'1 person-5bec6e85-fa01-4b22-bc6a-b1633e6c193f'
+Current accuracy: 0.5
+Current latency: 59.491698026657104
+Current bandwidth: 848.2423039495077
+Average accuracy: 0.7638909783518458
+Average latency: 11.373875303268433
+Average bandwidth: 1859.0571298409188
+228
+new image: 000000541123.jpg
+{'person': 13, 'sports ball': 1, 'chair': 6, 'tennis racket': 3}
+b'8 persons, 1 sports ball, 2 tennis rackets, 1 chair-0c610ac3-5c0b-424f-b4e8-cd8a1c4ac115'
+Current accuracy: 0.5217391304347826
+Current latency: 10.15356969833374
+Current bandwidth: 2994.6118363662586
+Average accuracy: 0.7628195099982304
+Average latency: 11.368475720945712
+Average bandwidth: 1864.081708188376
+229
+new image: 000000455624.jpg
+{'motorcycle': 1, 'person': 13}
+b'16 persons, 1 motorcycle-fbd9cb75-08fa-4007-98d7-3ad78e999f63'
+Current accuracy: 0.07142857142857142
+Current latency: 10.098336219787598
+Current bandwidth: 2782.3766597257327
+Average accuracy: 0.7597737349384523
+Average latency: 11.362880392746778
+Average bandwidth: 1868.1270603977916
+230
+new image: 000000112798.jpg
+{'cat': 1, 'laptop': 1, 'book': 2}
+b'1 cat, 1 chair, 1 couch, 1 laptop, 1 keyboard, 5 books-05ab0aad-c6a3-4b55-8ffe-6ab217dd3475'
+Current accuracy: 1.0
+Current latency: 10.25532603263855
+Current bandwidth: 1594.5251226491496
+Average accuracy: 0.7608273589080204
+Average latency: 11.3580226981849
+Average bandwidth: 1866.9270518988942
+231
+new image: 000000580757.jpg
+{'fire hydrant': 1}
+b'1 person, 1 fire hydrant-42cc07cd-1794-4eed-b5c5-686ee357dee1'
+Current accuracy: 1.0
+Current latency: 10.405031204223633
+Current bandwidth: 1581.302321642357
+Average accuracy: 0.7618717809215226
+Average latency: 11.353861163276772
+Average bandwidth: 1865.679782334455
+232
+new image: 000000129054.jpg
+{'zebra': 13}
+b'14 zebras-b80eb3a2-0f7e-4094-8acb-018f664ada3b'
+Current accuracy: 0.0
+Current latency: 11.19304609298706
+Current bandwidth: 1426.879230847322
+Average accuracy: 0.758559294917516
+Average latency: 11.353161967318991
+Average bandwidth: 1863.7719538497286
+233
+new image: 000000355325.jpg
+{'dining table': 2, 'wine glass': 2, 'cup': 1, 'spoon': 2, 'bowl': 1, 'pizza': 2, 'person': 1}
+b'2 wine glasss, 3 cups, 1 spoon, 1 bowl, 1 pizza, 1 dining table-334c6c61-b055-42bb-9aa3-b509e8140ba6'
+Current accuracy: 0.6363636363636364
+Current latency: 11.367468118667603
+Current bandwidth: 2407.2532875691422
+Average accuracy: 0.7580303093826506
+Average latency: 11.35322389871011
+Average bandwidth: 1866.124686896133
+234
+new image: 000000198489.jpg
+{'potted plant': 1, 'car': 1, 'person': 1, 'umbrella': 1}
+b'1 person, 1 car, 1 kite, 1 potted plant-1a77ddb3-5b94-4203-ae29-b57681235803'
+Current accuracy: 0.75
+Current latency: 10.95877194404602
+Current bandwidth: 2565.1824988723342
+Average accuracy: 0.7579956959801393
+Average latency: 11.351523674767593
+Average bandwidth: 1869.1378671201683
+235
+new image: 000000286182.jpg
+{'bottle': 10, 'chair': 1, 'dining table': 1, 'person': 1, 'fork': 2, 'spoon': 1, 'bowl': 5, 'broccoli': 9, 'book': 3, 'carrot': 2}
+b'1 person, 8 bottles, 2 forks, 2 spoons, 4 bowls, 3 chairs-22ab2e4e-59f6-4eda-a1a8-6b3a6e29c52c'
+Current accuracy: 0.4857142857142857
+Current latency: 11.136583805084229
+Current bandwidth: 2881.14610023871
+Average accuracy: 0.756827106236509
+Average latency: 11.350601186056505
+Average bandwidth: 1873.481250094926
+236
+new image: 000000157213.jpg
+{'elephant': 1}
+b'1 elephant-b9e5eb42-6558-4872-b92d-fdaa03f52f7f'
+Current accuracy: 1.0
+Current latency: 11.12060809135437
+Current bandwidth: 2502.6958752046467
+Average accuracy: 0.7578663066372077
+Average latency: 11.34961830958342
+Average bandwidth: 1876.1702014842838
+237
+new image: 000000151662.jpg
+{'giraffe': 2}
+b'1 giraffe-9a343be0-7350-4c39-bdcb-0cf28fdb896e'
+Current accuracy: 0.5
+Current latency: 12.898319721221924
+Current bandwidth: 1863.934645723173
+Average accuracy: 0.7567690032047089
+Average latency: 11.35620852835635
+Average bandwidth: 1876.1181352895555
+238
+new image: 000000433204.jpg
+{'motorcycle': 1, 'person': 5, 'car': 2}
+b'4 persons, 2 cars, 1 motorcycle-dde1cad8-b6ef-4e68-9a2f-f8ce51c8342a'
+Current accuracy: 0.875
+Current latency: 12.240231990814209
+Current bandwidth: 1830.2553429389527
+Average accuracy: 0.757269982004689
+Average latency: 11.359954390485408
+Average bandwidth: 1875.9238014236632
+239
+new image: 000000112997.jpg
+{'cell phone': 1, 'person': 1}
+b'1 person, 1 cell phone-8ad3d4ef-7d4f-4217-95c9-b1eeb9fa7d33'
+Current accuracy: 1.0
+Current latency: 11.622408866882324
+Current bandwidth: 1173.4551035166303
+Average accuracy: 0.7582941592958085
+Average latency: 11.361061793339404
+Average bandwidth: 1872.9597984789077
+240
+new image: 000000127092.jpg
+{'car': 3, 'person': 1, 'handbag': 1, 'fire hydrant': 1, 'stop sign': 1, 'potted plant': 1}
+b'1 person, 4 cars, 1 fire hydrant, 1 potted plant-754d9e7d-2fea-4470-ab59-d591b5a37070'
+Current accuracy: 0.75
+Current latency: 10.352323055267334
+Current bandwidth: 2173.582188255902
+Average accuracy: 0.7582593098870025
+Average latency: 11.356823395280276
+Average bandwidth: 1874.222917763685
+241
+new image: 000000042178.jpg
+{'train': 3}
+b'480x64-9d57817e-3ab0-4e1f-b78b-7f970eb5d22f'
+Current accuracy: 0.0
+Current latency: 10.709567308425903
+Current bandwidth: 3133.238163002126
+Average accuracy: 0.755086676791241
+Average latency: 11.35411521081645
+Average bandwidth: 1879.4907639780718
+242
+new image: 000000193245.jpg
+{'kite': 12, 'person': 13}
+b'10 persons, 1 backpack, 9 kites-0dd1a3c6-446d-48e4-9416-8e441fac5fe3'
+Current accuracy: 0.36
+Current latency: 10.359291791915894
+Current bandwidth: 1225.8560001089988
+Average accuracy: 0.7534404823046109
+Average latency: 11.349970113237699
+Average bandwidth: 1876.7672857952841
+243
+new image: 000000106048.jpg
+{'bus': 1}
+b'1 bus-874d4b29-0193-4d75-be40-7c2b4496d9cd'
+Current accuracy: 0.0
+Current latency: 10.100222826004028
+Current bandwidth: 1835.0956527691767
+Average accuracy: 0.750314173249405
+Average latency: 11.344784439846688
+Average bandwidth: 1876.5943744549268
+244
+new image: 000000268729.jpg
+{'zebra': 4, 'giraffe': 1, 'person': 5}
+b'3 persons, 3 cars, 4 zebras, 1 giraffe, 2 umbrellas-b2981828-c34d-455d-a6d7-102e4e30e813'
+Current accuracy: 0.8
+Current latency: 10.421947956085205
+Current bandwidth: 2370.825982255365
+Average accuracy: 0.7505194865830852
+Average latency: 11.340971065946848
+Average bandwidth: 1878.6366538260029
+245
+new image: 000000409198.jpg
+{'person': 1, 'bench': 4, 'frisbee': 1}
+b'1 person, 1 bench, 1 frisbee-58f5dd6b-c84c-4cbc-953d-cd2a0d729926'
+Current accuracy: 0.5
+Current latency: 9.797409057617188
+Current bandwidth: 2535.7469361437697
+Average accuracy: 0.7494885421938544
+Average latency: 11.334618958916684
+Average bandwidth: 1881.3408113664052
+246
+new image: 000000015746.jpg
+{'fire hydrant': 1}
+b'1 fire hydrant-44f8edcb-2e32-4b8d-b278-c47793aac8ad'
+Current accuracy: 1.0
+Current latency: 10.070598125457764
+Current bandwidth: 2433.3087960340113
+Average accuracy: 0.7505152284963386
+Average latency: 11.329438545664804
+Average bandwidth: 1883.6029752379939
+247
+new image: 000000471023.jpg
+{'train': 1, 'person': 13, 'chair': 4}
+b'9 persons, 1 bicycle, 3 horses-66fcc0c2-f239-436c-9d2a-877dbbccd6f3'
+Current accuracy: 0.5
+Current latency: 9.905949115753174
+Current bandwidth: 2675.071786696252
+Average accuracy: 0.7494927173596189
+Average latency: 11.323628384726389
+Average bandwidth: 1886.8334601827216
+248
+new image: 000000377635.jpg
+{'skateboard': 2, 'person': 4}
+b'3 persons, 1 skateboard, 1 tennis racket-8d6c598d-e5ac-4ac0-84eb-1973daf2e657'
+Current accuracy: 0.6666666666666666
+Current latency: 9.869519710540771
+Current bandwidth: 3438.123231443525
+Average accuracy: 0.7491560260966393
+Average latency: 11.317717373855714
+Average bandwidth: 1893.1395161634564
+249
+new image: 000000439715.jpg
+{'horse': 1, 'person': 12, 'umbrella': 6}
+b'8 persons, 2 horses, 4 umbrellas-a9099208-7ae0-40a6-abe7-a20b5d6385d7'
+Current accuracy: 0.6842105263157895
+Current latency: 11.060465097427368
+Current bandwidth: 2364.5253404473065
+Average accuracy: 0.7488930888505629
+Average latency: 11.316675866663697
+Average bandwidth: 1895.0479607961847
+250
+new image: 000000402783.jpg
+{'orange': 2}
+b'7 oranges-f683fbdd-ab2f-4699-b96b-e9feee5c5967'
+Current accuracy: 1.0
+Current latency: 10.634773015975952
+Current bandwidth: 871.0928748628168
+Average accuracy: 0.7499056167181011
+Average latency: 11.313926258394796
+Average bandwidth: 1890.9191096432276
+251
+new image: 000000465718.jpg
+{'tv': 2, 'cell phone': 1, 'laptop': 1, 'mouse': 1, 'keyboard': 2, 'person': 5}
+b'2 tvs, 1 laptop, 1 mouse, 2 keyboards, 1 cell phone-c7625a51-3b74-45ee-8cc3-c4dcd3a7de73'
+Current accuracy: 0.5833333333333334
+Current latency: 10.932199001312256
+Current bandwidth: 1506.8102948018673
+Average accuracy: 0.749236651724588
+Average latency: 11.312393217201693
+Average bandwidth: 1889.376503961134
+252
+new image: 000000432898.jpg
+{'car': 7, 'person': 13, 'kite': 13, 'truck': 2}
+b'9 persons, 5 cars, 7 kites-c2c70c25-7fcd-4c5b-b1cb-509c249f54b8'
+Current accuracy: 0.6
+Current latency: 11.304288148880005
+Current bandwidth: 1706.9186264428106
+Average accuracy: 0.7486397051176896
+Average latency: 11.312360796928406
+Average bandwidth: 1888.6466724510606
+253
+new image: 000000304817.jpg
+{'snowboard': 1}
+b'480x64-4933bab7-3d34-4fee-9792-bb8c23078cd9'
+Current accuracy: 0.0
+Current latency: 10.669540882110596
+Current bandwidth: 2769.413916351655
+Average accuracy: 0.7456570768104478
+Average latency: 11.309799761411202
+Average bandwidth: 1892.155705295286
+254
+new image: 000000156643.jpg
+{'bottle': 1, 'person': 10, 'cup': 1, 'cake': 1, 'chair': 3, 'dining table': 3, 'knife': 1, 'teddy bear': 1}
+b'7 persons, 1 bottle, 1 cup, 1 fork, 1 cake, 1 chair, 1 potted plant, 1 dining table, 1 teddy bear-b242dfe0-b779-49c9-b405-89878007aa56'
+Current accuracy: 0.6190476190476191
+Current latency: 11.594862222671509
+Current bandwidth: 2121.068756807836
+Average accuracy: 0.7451546583272619
+Average latency: 11.3109309616543
+Average bandwidth: 1893.0640904203358
+255
+new image: 000000310862.jpg
+{'tie': 1, 'person': 1, 'dining table': 1}
+b'1 person, 1 tie-6b4163a6-cc40-49c5-bf1c-a9cae50a3315'
+Current accuracy: 0.6666666666666666
+Current latency: 15.032516717910767
+Current bandwidth: 1139.7126856068533
+Average accuracy: 0.7448444291112122
+Average latency: 11.325640786777843
+Average bandwidth: 1890.0864168835237
+256
+new image: 000000308793.jpg
+{'person': 2, 'skis': 1, 'backpack': 1}
+b'2 persons, 2 skiss, 1 snowboard-2b6497be-3dce-4b3b-8748-a4e3ecc64c84'
+Current accuracy: 0.75
+Current latency: 10.974266052246094
+Current bandwidth: 2866.364807472649
+Average accuracy: 0.7448647266343963
+Average latency: 11.324257421681262
+Average bandwidth: 1893.9300325945044
+257
+new image: 000000476770.jpg
+{'baseball glove': 3, 'person': 13}
+b'12 persons, 1 sports ball, 2 baseball gloves-dc2c197b-d8df-49cd-bc2a-f883e537975b'
+Current accuracy: 0.125
+Current latency: 10.104451179504395
+Current bandwidth: 2686.6996057208466
+Average accuracy: 0.7424338845691634
+Average latency: 11.319473867790371
+Average bandwidth: 1897.0389328812744
+258
+new image: 000000474167.jpg
+{'bottle': 1, 'person': 3, 'pizza': 2, 'dining table': 2, 'handbag': 1}
+b'4 persons, 1 handbag, 1 bottle, 2 pizzas, 1 dining table-69c30df1-abac-4a0d-8b95-130a1d0fc22d'
+Current accuracy: 0.8888888888888888
+Current latency: 9.853256940841675
+Current bandwidth: 1456.0794553657965
+Average accuracy: 0.7430059744297873
+Average latency: 11.313746457919478
+Average bandwidth: 1895.3164349222295
+259
+new image: 000000215259.jpg
+{'couch': 1, 'person': 2, 'remote': 5}
+b'2 persons, 1 couch, 1 tv, 4 remotes, 1 book-35a33e89-2d81-4f5b-8170-381ae15809df'
+Current accuracy: 0.875
+Current latency: 10.033576250076294
+Current bandwidth: 995.706789981691
+Average accuracy: 0.7435195698600217
+Average latency: 11.308765250885068
+Average bandwidth: 1891.8160082882196
+260
+new image: 000000131431.jpg
+{'clock': 1}
+b'1 clock-46987501-8a19-434a-995d-e8d995f18a28'
+Current accuracy: 1.0
+Current latency: 10.303049087524414
+Current bandwidth: 2043.921641167285
+Average accuracy: 0.7445136800543626
+Average latency: 11.30486712622088
+Average bandwidth: 1892.4055650048053
+261
+new image: 000000065074.jpg
+{'bed': 1, 'book': 1}
+b'1 bed, 1 book-1253915a-f14e-4895-a418-3232a13d8180'
+Current accuracy: 1.0
+Current latency: 11.089791059494019
+Current bandwidth: 2201.1460693032877
+Average accuracy: 0.7455001137221064
+Average latency: 11.304036716696839
+Average bandwidth: 1893.5976132839498
+262
+new image: 000000491464.jpg
+{'person': 1, 'baseball bat': 1, 'car': 8, 'traffic light': 3}
+b'1 person, 3 cars, 2 traffic lights, 1 baseball bat-a503eb13-a02b-4863-af26-2fd3209e2609'
+Current accuracy: 0.5384615384615384
+Current latency: 10.76165509223938
+Current bandwidth: 1852.2708476668026
+Average accuracy: 0.7447038115095658
+Average latency: 11.301950633525848
+Average bandwidth: 1893.4386641854223
+263
+new image: 000000220584.jpg
+{'person': 1, 'surfboard': 1}
+b'1 person, 1 surfboard-618c5c7a-818e-455a-b0e4-960b2ce6f0c9'
+Current accuracy: 1.0
+Current latency: 11.241392135620117
+Current bandwidth: 1763.4715310023691
+Average accuracy: 0.7456819578256211
+Average latency: 11.301718608629658
+Average bandwidth: 1892.9407058207364
+264
+new image: 000000208208.jpg
+{'airplane': 1}
+b'1 airplane-32f35595-6ee5-44ff-bca6-2500ac176f66'
+Current accuracy: 1.0
+Current latency: 10.458855867385864
+Current bandwidth: 2156.820524732809
+Average accuracy: 0.7466526373759049
+Average latency: 11.298501575266132
+Average bandwidth: 1893.94788070208
+265
+new image: 000000491470.jpg
+{'traffic light': 3}
+b'3 traffic lights-c77eac93-2b95-4434-9d88-dec0e0b4bfd1'
+Current accuracy: 1.0
+Current latency: 9.993454217910767
+Current bandwidth: 1436.3777215563136
+Average accuracy: 0.7476159353326506
+Average latency: 11.29353941801383
+Average bandwidth: 1892.2080702110316
+266
+new image: 000000289702.jpg
+{'dog': 2}
+b'2 dogs, 1 bottle-86e1d899-8dd1-483a-946b-4d7dd7fcfad1'
+Current accuracy: 1.0
+Current latency: 10.10085391998291
+Current bandwidth: 2234.5635506466356
+Average accuracy: 0.7485719355776027
+Average latency: 11.289021669915229
+Average bandwidth: 1893.5048712732876
+267
+new image: 000000553731.jpg
+{'person': 6, 'cell phone': 1}
+b'5 persons, 1 cell phone-77999f75-5c58-4196-896a-f7655d565609'
+Current accuracy: 0.8571428571428571
+Current latency: 10.276891231536865
+Current bandwidth: 1364.1284785597093
+Average accuracy: 0.7489816371684149
+Average latency: 11.285202309770405
+Average bandwidth: 1891.5072245083309
+268
+new image: 000000382125.jpg
+{'chair': 7, 'dining table': 3, 'person': 9, 'cup': 6, 'pizza': 2}
+b'8 persons, 4 cups, 2 pizzas, 6 chairs, 2 dining tables-784ebf2f-b4b8-4f3c-a794-ed6f3eb712c3'
+Current accuracy: 0.8148148148148148
+Current latency: 10.621160984039307
+Current bandwidth: 2161.416255200133
+Average accuracy: 0.7492291303174615
+Average latency: 11.282705913809009
+Average bandwidth: 1892.5219201124353
+269
+new image: 000000405205.jpg
+{'bus': 2, 'truck': 1}
+b'3 buss, 1 truck-e37d2205-29f6-4410-bbfb-6e64c974e457'
+Current accuracy: 1.0
+Current latency: 11.039228916168213
+Current bandwidth: 1180.8456096881764
+Average accuracy: 0.7501683470578456
+Average latency: 11.28179401494144
+Average bandwidth: 1889.856465766277
+270
+new image: 000000098853.jpg
+{'sports ball': 1, 'chair': 9, 'tennis racket': 1, 'person': 13}
+b'16 persons, 1 sports ball, 1 tennis racket, 8 chairs-1ecdc083-1249-4ddd-9651-314f9e86880b'
+Current accuracy: 0.4166666666666667
+Current latency: 10.167046785354614
+Current bandwidth: 2937.603281517533
+Average accuracy: 0.7489239378026546
+Average latency: 11.27763451035343
+Average bandwidth: 1893.7659688101248
+271
+new image: 000000369812.jpg
+{'car': 6, 'person': 7, 'bus': 1, 'truck': 2, 'handbag': 2}
+b'9 persons, 5 cars, 1 bus-bcce7805-03a5-4a21-9dca-1117f6c7e4cd'
+Current accuracy: 0.6666666666666666
+Current latency: 10.925376892089844
+Current bandwidth: 4908.205962105039
+Average accuracy: 0.7486181486906248
+Average latency: 11.276325002478844
+Average bandwidth: 1904.972065439474
+272
+new image: 000000312278.jpg
+{'suitcase': 2}
+b'320x64-ab9da5cb-058d-4d5a-b8d7-7c9ab929036d'
+Current accuracy: 0.0
+Current latency: 9.708363056182861
+Current bandwidth: 2331.7138913118147
+Average accuracy: 0.7458454888806596
+Average latency: 11.270517736011081
+Average bandwidth: 1906.5525907204826
+273
+new image: 000000548339.jpg
+{'bottle': 1, 'person': 5, 'baseball bat': 1, 'bench': 2, 'handbag': 1, 'baseball glove': 1}
+b'7 persons, 2 baseball bats, 1 bottle-33c20a11-37dd-4fac-8723-96c61e336d1d'
+Current accuracy: 0.6363636363636364
+Current latency: 11.147935152053833
+Current bandwidth: 3500.6370657628268
+Average accuracy: 0.745441496804951
+Average latency: 11.270065401752936
+Average bandwidth: 1912.4348212556943
+274
+new image: 000000509403.jpg
+{'dog': 1, 'person': 3, 'frisbee': 1}
+b'3 persons, 1 dog, 1 frisbee-d5af59bb-6638-4932-aed4-9211c1d2e0b0'
+Current accuracy: 1.0
+Current latency: 10.23090410232544
+Current bandwidth: 3979.499230253357
+Average accuracy: 0.7463773736549327
+Average latency: 11.26624495579916
+Average bandwidth: 1920.034322759362
+275
+new image: 000000118921.jpg
+{'person': 1, 'skis': 2}
+b'1 person, 1 skis-b2334b22-007e-4700-aaa8-6df86d48caa2'
+Current accuracy: 0.3333333333333333
+Current latency: 10.412946939468384
+Current bandwidth: 2256.661839976655
+Average accuracy: 0.744864391822253
+Average latency: 11.263119322039705
+Average bandwidth: 1921.267390587997
+276
+new image: 000000532481.jpg
+{'person': 2, 'car': 6, 'kite': 1, 'surfboard': 1}
+b'2 persons, 3 cars, 1 kite, 1 surfboard-792cb65f-6cdc-4c8f-bee2-624ff8fdbb85'
+Current accuracy: 0.7
+Current latency: 10.5957670211792
+Current bandwidth: 2852.8845471571985
+Average accuracy: 0.7447006531659673
+Average latency: 11.260683729700798
+Average bandwidth: 1924.667453203213
+277
+new image: 000000243989.jpg
+{'person': 7, 'skateboard': 1}
+b'6 persons, 1 skateboard-60fcca8a-561c-4a02-82a6-62a9ec09f6d4'
+Current accuracy: 0.875
+Current latency: 11.694558143615723
+Current bandwidth: 1352.4452831622702
+Average accuracy: 0.7451744689726365
+Average latency: 11.262261454842307
+Average bandwidth: 1922.5866453121553
+278
+new image: 000000245320.jpg
+{'car': 1, 'person': 2, 'skateboard': 1}
+b'2 persons, 1 car, 1 skateboard-41c84466-2744-4b3d-8733-ba00ff55335f'
+Current accuracy: 1.0
+Current latency: 11.244038105010986
+Current bandwidth: 1178.8802987151605
+Average accuracy: 0.7460977498821559
+Average latency: 11.262195428212484
+Average bandwidth: 1919.8920570998473
+279
+new image: 000000367195.jpg
+{'dog': 1, 'couch': 1, 'person': 1}
+b'1 dog, 1 couch-285c3c82-f727-45c2-acdb-0136b8df1b9c'
+Current accuracy: 0.6666666666666666
+Current latency: 10.871530055999756
+Current bandwidth: 894.9062321389417
+Average accuracy: 0.7458109950691036
+Average latency: 11.260785083908466
+Average bandwidth: 1916.1917472624434
+280
+new image: 000000463802.jpg
+{'person': 1, 'tennis racket': 1, 'teddy bear': 1}
+b'1 person, 1 cat-9b7e385e-56bd-4f82-a39e-d1ed04842c74'
+Current accuracy: 0.3333333333333333
+Current latency: 11.160585165023804
+Current bandwidth: 1308.7127407775888
+Average accuracy: 0.7443272624729318
+Average latency: 11.260424652545572
+Average bandwidth: 1914.006570980124
+281
+new image: 000000526392.jpg
+{'car': 4, 'traffic light': 4}
+b'1 person, 5 cars, 4 traffic lights-7d200f49-2543-462f-8c02-3db397be90ec'
+Current accuracy: 1.0
+Current latency: 11.000361919403076
+Current bandwidth: 966.7750095786931
+Average accuracy: 0.7452436522131722
+Average latency: 11.259492528054022
+Average bandwidth: 1910.6114757779683
+282
+new image: 000000143931.jpg
+{'bus': 1, 'person': 1}
+b'1 person, 1 bus-f7c04f81-c16b-478e-b0dc-af1b99a02cdc'
+Current accuracy: 0.5
+Current latency: 11.037546873092651
+Current bandwidth: 2818.447827010996
+Average accuracy: 0.7443677820266966
+Average latency: 11.258699865000589
+Average bandwidth: 1913.8537484609435
+283
+new image: 000000393014.jpg
+{'sandwich': 2, 'hot dog': 2}
+b'2 sandwichs-fb7b7d93-adcd-4baf-a11c-13327228fdcf'
+Current accuracy: 0.5
+Current latency: 11.016499996185303
+Current bandwidth: 2576.340036293556
+Average accuracy: 0.7434981457917261
+Average latency: 11.257837943759252
+Average bandwidth: 1916.2113509087465
+284
+new image: 000000128148.jpg
+{'potted plant': 2, 'chair': 3, 'couch': 2, 'dining table': 1, 'book': 13, 'tv': 1}
+b'2 chairs, 2 couchs, 1 potted plant, 1 tv, 3 books, 1 vase-a829b340-9edb-43de-ab71-96a8d68e56eb'
+Current accuracy: 0.4090909090909091
+Current latency: 10.735759973526001
+Current bandwidth: 1294.9479155907406
+Average accuracy: 0.7423123045268296
+Average latency: 11.255986603439277
+Average bandwidth: 1914.0082890813776
+285
+new image: 000000185802.jpg
+{'umbrella': 1, 'chair': 2, 'banana': 1}
+b'1 umbrella, 1 banana, 2 chairs, 1 bed-a91ecfef-7802-40e6-9081-b225c68b84b7'
+Current accuracy: 1.0
+Current latency: 11.118577003479004
+Current bandwidth: 1351.7017506194745
+Average accuracy: 0.74322286175465
+Average latency: 11.255501057149665
+Average bandwidth: 1912.0213401822189
+286
+new image: 000000357903.jpg
+{'pizza': 2}
+b'2 pizzas-63514579-5475-4faf-9ad4-503ab436ed95'
+Current accuracy: 1.0
+Current latency: 11.187989950180054
+Current bandwidth: 2348.198837949188
+Average accuracy: 0.7441270066076265
+Average latency: 11.255263341984278
+Average bandwidth: 1913.5571764419617
+287
+new image: 000000343976.jpg
+{'car': 6, 'person': 3}
+b'480x64-369e20d0-a6b2-4d20-83e6-3c2606b24b4d'
+Current accuracy: 0.0
+Current latency: 11.030375003814697
+Current bandwidth: 1191.9699008830612
+Average accuracy: 0.7415160346546174
+Average latency: 11.254474260095964
+Average bandwidth: 1911.025291264562
+288
+new image: 000000028809.jpg
+{'banana': 4}
+b'6 bananas-5c6053c4-beef-4fb1-804d-fcd9063a59e5'
+Current accuracy: 1.0
+Current latency: 12.105695962905884
+Current bandwidth: 1467.9969705545266
+Average accuracy: 0.7424198247432376
+Average latency: 11.257450559756139
+Average bandwidth: 1909.4762411921495
+289
+new image: 000000185157.jpg
+{'bicycle': 6}
+b'1 person, 2 bicycles-33f8319e-605c-4264-b49c-28483d451deb'
+Current accuracy: 0.3333333333333333
+Current latency: 11.154537916183472
+Current bandwidth: 1569.5517942163433
+Average accuracy: 0.7409944362714261
+Average latency: 11.257091979116513
+Average bandwidth: 1908.291835453558
+290
+new image: 000000053505.jpg
+{'toilet': 1, 'bottle': 8}
+b'8 bottles, 1 toilet-4cc8b95c-dca4-41b4-a75a-5dd3a9142c5d'
+Current accuracy: 1.0
+Current latency: 11.10864520072937
+Current bandwidth: 1184.7754395050677
+Average accuracy: 0.7418937611454837
+Average latency: 11.25657653891378
+Average bandwidth: 1905.7796257454038
+291
+new image: 000000234526.jpg
+{'giraffe': 1, 'person': 10}
+b'8 persons, 1 giraffe, 1 scissors-ed913420-af8e-4c91-a1a5-52a799c4b407'
+Current accuracy: 0.8181818181818182
+Current latency: 11.586544036865234
+Current bandwidth: 2867.1513174508113
+Average accuracy: 0.7421577336611803
+Average latency: 11.257718294962055
+Average bandwidth: 1909.106171391443
+292
+new image: 000000553094.jpg
+{'airplane': 1}
+b'1 airplane-a22b2588-e81e-4875-bcb7-d2ec07ce80e9'
+Current accuracy: 1.0
+Current latency: 10.746072053909302
+Current bandwidth: 680.4811993922741
+Average accuracy: 0.7430468449244176
+Average latency: 11.255953997579114
+Average bandwidth: 1904.869533556963
+293
+new image: 000000021839.jpg
+{'traffic light': 1, 'person': 9, 'handbag': 4, 'car': 1}
+b'6 persons, 1 car, 2 traffic lights, 1 bench, 1 handbag-a1664d5a-c17d-48b0-8098-71202c7a4137'
+Current accuracy: 0.6
+Current latency: 11.19797396659851
+Current bandwidth: 2444.8060945364014
+Average accuracy: 0.7425552750105879
+Average latency: 11.255754753486398
+Average bandwidth: 1906.7249856565488
+294
+new image: 000000537506.jpg
+{'umbrella': 3, 'car': 3, 'person': 4, 'apple': 2, 'handbag': 1}
+b'3 persons, 2 cars, 3 umbrellas, 1 handbag, 1 frisbee, 2 apples-6413c195-2d1c-4d11-b18b-da06d731ddc5'
+Current accuracy: 0.8461538461538461
+Current latency: 10.748899221420288
+Current bandwidth: 1753.0981184052905
+Average accuracy: 0.7429100646377909
+Average latency: 11.254018946869733
+Average bandwidth: 1906.1988662481542
+295
+new image: 000000433774.jpg
+{'traffic light': 3, 'parking meter': 2, 'car': 2}
+b'4 cars, 1 traffic light, 2 parking meters-5bacc1e0-544a-4ae6-bd76-95d7483043a4'
+Current accuracy: 0.7142857142857143
+Current latency: 10.980515956878662
+Current bandwidth: 1931.5918380605087
+Average accuracy: 0.7428123706092855
+Average latency: 11.25308548956601
+Average bandwidth: 1906.285531680961
+296
+new image: 000000270402.jpg
+{'elephant': 2}
+b'2 elephants-76a1762d-5b63-43ac-bd70-ea1f133de7dd'
+Current accuracy: 1.0
+Current latency: 10.603133916854858
+Current bandwidth: 2370.3487286950235
+Average accuracy: 0.743687158464356
+Average latency: 11.250874769930936
+Average bandwidth: 1907.8639779293085
+297
+new image: 000000085157.jpg
+{'chair': 4, 'dining table': 1, 'person': 7, 'cup': 6, 'bowl': 1, 'fork': 1, 'pizza': 1}
+b'6 persons, 9 cups, 1 bowl, 3 chairs, 1 dining table-7d0b6658-9aa2-4694-8865-7888580d3f6b'
+Current accuracy: 0.8095238095238095
+Current latency: 13.812266111373901
+Current bandwidth: 1553.0217726066026
+Average accuracy: 0.7439103335526931
+Average latency: 11.259557452444303
+Average bandwidth: 1906.6611229960113
+298
+new image: 000000168593.jpg
+{'chair': 1, 'refrigerator': 2}
+b'1 chair, 1 dining table, 2 refrigerators-8fcbeff7-ad26-4d23-8502-e6dad3d42e62'
+Current accuracy: 1.0
+Current latency: 15.544965982437134
+Current bandwidth: 1108.6225611217542
+Average accuracy: 0.7447755013447448
+Average latency: 11.274035183964548
+Average bandwidth: 1903.965046773463
+299
+new image: 000000182162.jpg
+{'couch': 1, 'suitcase': 1, 'laptop': 1, 'remote': 2, 'book': 4}
+b'2 dogs, 1 backpack, 1 couch, 1 laptop, 2 remotes, 2 books-2fedb6bc-6183-4d54-8152-fefb52b86261'
+Current accuracy: 0.6666666666666666
+Current latency: 11.176854848861694
+Current bandwidth: 1922.6674489906777
+Average accuracy: 0.744512508635391
+Average latency: 11.273707977449051
+Average bandwidth: 1904.0280178246992
+300
+new image: 000000357081.jpg
+{'cow': 2}
+b'2 cows-238045b1-b098-47d7-94af-dee6c5bcc49a'
+Current accuracy: 1.0
+Current latency: 10.392092943191528
+Current bandwidth: 1888.370813009031
+Average accuracy: 0.74536984921044
+Average latency: 11.270749537736778
+Average bandwidth: 1903.9754768689418
+301
+Traceback (most recent call last):
+  File "./client.py", line 141, in <module>
+    with open("lists/accuracy.txt", "w") as output:
+FileNotFoundError: [Errno 2] No such file or directory: 'lists/accuracy.txt'
+(base) sophia@Sophias-MacBook-Pro-2 Case study 2 %
